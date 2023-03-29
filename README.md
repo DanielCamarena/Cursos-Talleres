@@ -22,27 +22,30 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración *(Relanzamiento)*: 2021/04/24 - 2021/11/13 *(2023/04/04 - 2023/06/20)*
+- Duración: 
+
+   - En vivo: 2021/04/24 - 2021/11/13
+   - Relanzamiento: 2023/04/04 - 2023/06/20
 
 - Docentes: 
 
    - [David Morante](https://github.com/Dlay05)
    - Miller Silva
-   - Jhon AStoquillca
+   - Jhon Astoquillca
    - [Daniel Camarena](https://github.com/DanielCamarena)
 
 - Clases:
    
    1. Espacio de Probabilidad. [Material](). [Grabación](https://youtu.be/S3exXxAityg).
-   2. Probabilidad Condicional. [Material](). [Grabación]().
-   3. Independencia. [Material](). [Grabación]().
-   4. Sigma-álgebras y medidas. [Material](). [Grabación]().
-   5. Variables Aleatorias. [Material](). [Grabación]().
-   6. Función de Distribución. [Material](). [Grabación]().
-   7. Tipos de variables aleatorias. [Material](). [Grabación]().
-   8. Distribuciones de Variables Aleatorias. [Material](). [Grabación]().
-   9. Vectores Aleatorios. [Material](). [Grabación]().
-   10. Distribución uniforme y convolución. [Material](). [Grabación]().
+   2. Probabilidad Condicional. [Material](). [Grabación](https://youtu.be/gfS4voMJcwA).
+   3. Independencia. [Material](). [Grabación](https://youtu.be/Gq82OKxrlUg).
+   4. Sigma-álgebras y medidas. [Material](). [Grabación](https://youtu.be/CxMyLMm4Pf4).
+   5. Variables Aleatorias. [Material](). [Grabación](https://youtu.be/JXgDHkz5S-8).
+   6. Función de Distribución. [Material](). [Grabación](https://youtu.be/dkTglvD0ToU).
+   7. Tipos de variables aleatorias. [Material](). [Grabación](https://youtu.be/f-LM-_RZ9yc).
+   8. Distribuciones de Variables Aleatorias. [Material](). [Grabación](https://youtu.be/EkzT4guT8og).
+   9. Vectores Aleatorios. [Material](). [Grabación](https://youtu.be/yGhmEPOqdwE).
+   10. Distribución uniforme y convolución. [Material](). [Grabación](https://youtu.be/IwfjTGQGyR4).
    11. Integración y esperanza matemática. [Material](). [Grabación]().
    12. Propiedades de la esperanza. [Material](). [Grabación]().
    13. Momentos y funciones de vectores aleatorios. [Material](). [Grabación]().
@@ -63,8 +66,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    
 - Referencias
    
-   a. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA
-   b. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability
+   a. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
+   b. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability <br>
 
 
 ## Calculo matricial para econometría
@@ -89,7 +92,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Docentes: 
 
-   - Jhon AStoquillca
+   - Jhon Astoquillca
    - [Daniel Camarena](https://github.com/DanielCamarena)
    - [David Morante](https://github.com/Dlay05)
 
