@@ -87,22 +87,22 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Clases:
    
-   C-1. Presentación del taller - Nociones básicas de probabilidad y medida. [Material](). [Grabación]().
-   C0. Esperanza condicional. [Material](). [Grabación]().
-   C1. Introducción y motivaciones I. [Material](). [Grabación]().
-   C2. Introducción y motivaciones II. [Material](). [Grabación]().
-   L0. Introducción a python para computación científica. [Material](). [Grabación]().
-   L1. Simulación de cadenas de Markov. [Material](). [Grabación]().
-   C3. Espacio Canónico. [Material](). [Grabación]().
-   C4. Propiedad fuerte de Markov. [Material](). [Grabación]().
-   C5. Aplicaciones de la propiedad fuerte de Markov. [Material](). [Grabación]().
-   L2. Propiedades de cadenas de Markov. [Material](). [Grabación]().
-   L3. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación]().
-   C6. Clasificación de estados. [Material](). [Grabación]().
-   C7. Medidas invariantes. [Material](). [Grabación]().
-   L4. Cadenas de Markov y Método de Monte Carlo. [Material](). [Grabación]().
-   C8. Comportamiento asintótico. [Material](). [Grabación]().
-   L5. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación]().
+   C-1. Presentación del taller - Nociones básicas de probabilidad y medida. [Material](). [Grabación]().<br>
+   C0. Esperanza condicional. [Material](). [Grabación]().<br>
+   C1. Introducción y motivaciones I. [Material](). [Grabación]().<br>
+   C2. Introducción y motivaciones II. [Material](). [Grabación]().<br>
+   L0. Introducción a python para computación científica. [Material](). [Grabación]().<br>
+   L1. Simulación de cadenas de Markov. [Material](). [Grabación]().<br>
+   C3. Espacio Canónico. [Material](). [Grabación]().<br>
+   C4. Propiedad fuerte de Markov. [Material](). [Grabación]().<br>
+   C5. Aplicaciones de la propiedad fuerte de Markov. [Material](). [Grabación]().<br>
+   L2. Propiedades de cadenas de Markov. [Material](). [Grabación]().<br>
+   L3. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación]().<br>
+   C6. Clasificación de estados. [Material](). [Grabación]().<br>
+   C7. Medidas invariantes. [Material](). [Grabación](). <br>
+   L4. Cadenas de Markov y Método de Monte Carlo. [Material](). [Grabación](). <br>
+   C8. Comportamiento asintótico. [Material](). [Grabación](). <br>
+   L5. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación](). <br>
 
 - Descripción/Resumen: 
    
@@ -110,14 +110,14 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    
 - Referencias
    
-   B1. Le Gall, Integración, Probabilidades y Procesos aleatorios: Ecole normale supérieure de Paris. FIMFA
-   B1. Athreya and Lahiri, Measure Theory and Probability Theory, Springer 
-   B1. Jacques Franchi, Procesos aleatorios en tiempo discreto
-   B2. Gregory Lawler, Random walk and the Heat Equation, 2010, AMS 
-   B3. Daniel Valesin, Markov Chain, Notes. 
-   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html)
-   L1. [Sargent. Finite Markov Chains.](https://python.quantecon.org/finite_markov.html)
-   L2. [Stachurski. Economic Dynamics: Theory and Computation](https://johnstachurski.net/edtc.html)
+   B1. Le Gall, Integración, Probabilidades y Procesos aleatorios: Ecole normale supérieure de Paris. FIMFA <br>
+   B1. Athreya and Lahiri, Measure Theory and Probability Theory, Springer <br>
+   B1. Jacques Franchi, Procesos aleatorios en tiempo discreto <br>
+   B2. Gregory Lawler, Random walk and the Heat Equation, 2010, AMS  <br>
+   B3. Daniel Valesin, Markov Chain, Notes. <br>
+   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
+   L1. [Sargent. Finite Markov Chains.](https://python.quantecon.org/finite_markov.html) <br>
+   L2. [Stachurski. Economic Dynamics: Theory and Computation](https://johnstachurski.net/edtc.html) <br>
 
 
 ## Contacto
