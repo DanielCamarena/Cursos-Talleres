@@ -22,8 +22,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Clases:
    
-   - s
-   - s
+   - Espacio de Probabilidad. [Material](). [Grabación]()
+   - Probabilidad Condicional. [Material](). [Grabación]()
 
 - Descripción/Resumen: 
    
@@ -33,6 +33,11 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
    - D
    - D
+
+- Referencias
+   
+   - S
+   - S
 
 
 ## Calculo matricial para econometría
