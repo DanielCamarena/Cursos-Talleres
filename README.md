@@ -5,11 +5,15 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Introducción a la Programación con R y Python
 
-   - Insitución: [Grupo CENTEC](https://www.facebook.com/GEMFCUNI)
+   - Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+   
    - Modalidad: Virtual
-   - Fecha: 2021/04/04 - 
-   - Documento: [`gem2017.pdf`](../main/03/gem2017.pdf)
-   - Descripción/Resumen: [Sobre la teoría de conjuntos ZF y el axioma de elección](https://www.facebook.com/notes/347312730052307/)
+   
+   - Fecha: 2021/04 - 2021/XX
+   
+   - Documento: [`.pdf`](../main/03/gem2017.pdf)
+   
+   - Descripción/Resumen: ...
 
 
 ## Teoría de la probabilidad
@@ -18,7 +22,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración *(Relanzamiento)*: 2021/04 - 2021/10 *(2023/04/04 - 2023/06/20)*
+- Duración *(Relanzamiento)*: 2021/04/24 - 2021/11/13 *(2023/04/04 - 2023/06/20)*
 
 - Docentes: 
 
@@ -29,7 +33,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Clases:
    
-   1. Espacio de Probabilidad. [Material](). [Grabación]().
+   1. Espacio de Probabilidad. [Material](). [Grabación](https://youtu.be/S3exXxAityg).
    2. Probabilidad Condicional. [Material](). [Grabación]().
    3. Independencia. [Material](). [Grabación]().
    4. Sigma-álgebras y medidas. [Material](). [Grabación]().
@@ -65,11 +69,15 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Calculo matricial para econometría
 
-   - Insitución/Evento: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
+   - Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+   
    - Modalidad: Presencial
-   - Fecha: 2017/05/04
-   - Documento: [`gem2017.pdf`](../main/03/gem2017.pdf)
-   - Descripción/Resumen: [Sobre la teoría de conjuntos ZF y el axioma de elección](https://www.facebook.com/notes/347312730052307/)
+   
+   - Fecha: 2021/XX
+   
+   - Documento: [`.pdf`](../main/03/gem2017.pdf)
+   
+   - Descripción/Resumen: ...
 
 ## Cadenas de Markov
 
