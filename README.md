@@ -14,11 +14,11 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Teoría de la probabilidad
 
-- Insitución: [Expociencia 2016 (UNI)](https://www.uni.edu.pe/index.php/rss/item/1916-expociencia-2016)
+- Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
 - Modalidad: Virtual
 
-- Duración: 2021/10/17 al 2021/10/21
+- Duración: 2021/04/24 al 2021/10/XX
 
 - Clases:
    
@@ -27,12 +27,14 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Descripción/Resumen: 
    
-   [Exhibición para escolares y público en general de la maqueta del proyecto del mismo nombre.](https://www.youtube.com/watch?v=JPgbDQHZxzE)
+   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado. Las clases tienen una frecuencia de 1/2 sesiones por semana.](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
    
 - Docentes: 
 
-   - D
-   - D
+   - [David Morante](https://github.com/Dlay05)
+   - Miller Silva
+   - Jhon AStoquillca
+   - [Daniel Camarena](https://github.com/DanielCamarena)
 
 - Referencias
    
