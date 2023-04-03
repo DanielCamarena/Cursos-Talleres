@@ -36,11 +36,11 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Clases:
    
-   1. Espacio de Probabilidad. [Material](). [Grabación](https://youtu.be/S3exXxAityg).
-   2. Probabilidad Condicional. [Material](). [Grabación](https://youtu.be/gfS4voMJcwA).
-   3. Independencia. [Material](). [Grabación](https://youtu.be/Gq82OKxrlUg).
-   4. Sigma-álgebras y medidas. [Material](). [Grabación](https://youtu.be/CxMyLMm4Pf4).
-   5. Variables Aleatorias. [Material](). [Grabación](https://youtu.be/JXgDHkz5S-8).
+   1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg).
+   2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA).
+   3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg).
+   4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4).
+   5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1nxy7fR-BNqMbVQRP4X0dKGqrWw5G74kC/view?usp=share_link). [Grabación](https://youtu.be/JXgDHkz5S-8).
    6. Función de Distribución. [Material](). [Grabación](https://youtu.be/dkTglvD0ToU).
    7. Tipos de variables aleatorias. [Material](). [Grabación](https://youtu.be/f-LM-_RZ9yc).
    8. Distribuciones de Variables Aleatorias. [Material](). [Grabación](https://youtu.be/EkzT4guT8og).
