@@ -50,7 +50,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Descripción/Resumen: 
    
-   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
+   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas (aprox.) por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
    
 - Referencias
    
