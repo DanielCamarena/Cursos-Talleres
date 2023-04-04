@@ -31,10 +31,14 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
    - Observaciones: Sesiones de 1.5 horas aproximadamente. 
 
 
-## Temario
-  
+## Desarrollo
 
-I. Clases
+I. Temarios
+   
+   - [Temario de lanzamiento (2021).](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+   - Temario de relanzamiento (2023): Adiciona lista de ejercicios al temario previo.
+
+II. Clases
 
    1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg). [Lista 1 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link).
    2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA). [Solucionario de Lista 1 (nuevo)](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link).
@@ -60,7 +64,7 @@ I. Clases
    22. El Teorema Central del Límite. [Material](). [Grabación]().
    23. El Teorema Central del Límite, extensiones. [Material](). [Grabación]().
    
-II. Referencias
+III. Referencias
    
    [1]. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
    [2]. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability <br>
