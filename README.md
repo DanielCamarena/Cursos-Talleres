@@ -24,8 +24,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Duración: 
 
-   - En vivo: 2021/04/24 - 2021/11/13
-   - Relanzamiento: 2023/04/04 - 2023/06/20
+   - Lanzamiento: 2021/04/24 - 2021/11/13
+   - Relanzamiento: 2023/04/10 - 2023/06/27
 
 - Docentes: 
 
@@ -36,10 +36,10 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Clases:
    
-   1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg).
-   2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA). [Lista 1 de ejercicios]().
-   3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg). [Solucionario de Lista 1]().
-   4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4).
+   1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg). [Lista 1 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link).
+   2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA). [Solucionario de Lista 1 (nuevo)](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link).
+   3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg). [Lista 2 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). 
+   4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4). [Solucionario de Lista 2 (nuevo)](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link).
    5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1nxy7fR-BNqMbVQRP4X0dKGqrWw5G74kC/view?usp=share_link). [Grabación](https://youtu.be/JXgDHkz5S-8).
    6. Función de Distribución. [Material](). [Grabación](https://youtu.be/dkTglvD0ToU).
    7. Tipos de variables aleatorias. [Material](). [Grabación](https://youtu.be/f-LM-_RZ9yc).
@@ -62,7 +62,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Descripción/Resumen: 
    
-   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado. En el relanzamiento las clases tienen una frecuencia de 1/2 sesiones por semana.](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
+   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
    
 - Referencias
    
