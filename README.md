@@ -64,7 +64,10 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración *(Relanzamiento)*: 2021/11 - 2022/03 *(2023/XX - 2023/XX)*
+- Duración: 
+
+   - Lanzamiento: 2021/11 - 2022/03
+   - Relanzamiento: **próximamente**
 
 - Docentes: 
 
