@@ -6,6 +6,10 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Teoría de la probabilidad
 
+- Repositorio: 
+ 
+   - [Probabilidad_GEM](Probabilidad_GEM/)
+
 - Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
 - Modalidad: Virtual
@@ -26,7 +30,9 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    - Jhon Astoquillca
    - [Daniel Camarena](https://github.com/DanielCamarena)
 
-- [Temario](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+- Temario:
+
+   [Primera edición](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
    
 - Referencias
    
@@ -35,6 +41,10 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 
 ## Cadenas de Markov
+
+- Repositorio: 
+ 
+   - [CadenasMarkov_GEM](CadenasMarkov_GEM/)
 
 - Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
@@ -55,7 +65,9 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    - [Daniel Camarena](https://github.com/DanielCamarena)
    - [David Morante](https://github.com/Dlay05)
  
- - [Temario](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
+- Temario:
+
+   [Primera edición](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
    
 - Referencias
    
