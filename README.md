@@ -32,7 +32,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Temario:
 
-   [Primera edición](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+   - [Primera edición](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
    
 - Referencias
    
@@ -67,7 +67,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
  
 - Temario:
 
-   [Primera edición](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
+   - [Primera edición](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
    
 - Referencias
    
