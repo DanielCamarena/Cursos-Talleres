@@ -81,6 +81,6 @@ III. Referencias
 
 ## Contacto
 
-Cualquier error o incorrección solo favor de escribir a:
+Cualquier error o incorrección favor de escribir a:
 
   vcamarenap@uni.pe
