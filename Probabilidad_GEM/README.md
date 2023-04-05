@@ -14,7 +14,9 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
    - Miller Silva
    - Jhon Astoquillca
    - [Daniel Camarena](https://github.com/DanielCamarena)
-   - Francisco Herrera (nuevo)
+   - Francisco Herrera (actual)
+   - Paolo Camarena (actual)
+   - Kriss Gutierrez (actual)
 
 - Lanzamiento ([GEM UNI](https://www.facebook.com/GEMFCUNI)):
 
@@ -40,7 +42,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 I. Temarios
    
    - [Temario de lanzamiento (2021).](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
-   - Temario de relanzamiento (2023): Adiciona lista de ejercicios al temario previo.
+   - Temario de relanzamiento (2023): Adiciona listas de ejercicios al temario previo.
 
 II. Clases
 
