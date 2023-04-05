@@ -19,7 +19,6 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
    - Duración: 2021/04/24 - 2021/11/13 (aprox. 1 ciclo académico)
    - [Post informativo](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
-   - Observaciones: 100% sincrónico.
 
 - **Relanzamiento:** 
    
