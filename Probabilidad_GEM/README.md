@@ -13,7 +13,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
    - [David Morante](https://github.com/Dlay05)
    - Miller Silva
    - Jhon Astoquillca
-   - [Daniel Camarena](https://github.com/DanielCamarena)
+   - [Daniel Camarena (actual)](https://github.com/DanielCamarena)
    - Francisco Herrera (actual)
    - Paolo Camarena (actual)
    - Kriss Gutierrez (actual)
