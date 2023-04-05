@@ -14,6 +14,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
    - Miller Silva
    - Jhon Astoquillca
    - [Daniel Camarena](https://github.com/DanielCamarena)
+   - Francisco Herrera (nuevo)
 
 - Lanzamiento ([GEM UNI](https://www.facebook.com/GEMFCUNI)):
 
@@ -25,7 +26,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
    - **Duración:** 2023/04/10 - 2023/06/26 (aprox. 12 semanas)
    - **Horarios:** Teoría, Lu y Vi 8pm (Hora Perú, asincrónico). *Práctica, Ma 8-10pm (Hora Perú, sincrónico)*
    - [Post informativo](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
-   - **Observaciones:** *La parte práctica es sincrónica por Zoom, luego la grabación será subida a Youtube.*
+   - **Observaciones:** *La parte práctica es sincrónica por Zoom, luego la grabación será subida a Youtube junto con el resto de clases de teoría.*
 
 - Requisitos:
    
