@@ -49,6 +49,8 @@ I. Temarios
 
 II. Clases
 
+   Todas las clases de teoría y práctica son alojadas en [YouTube](https://youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
+
    1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg). [Lista 1 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link).
    2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA). [Solucionario de Lista 1 (nuevo)](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link).
    3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg). [Lista 2 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). 
