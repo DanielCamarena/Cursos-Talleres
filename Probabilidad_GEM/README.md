@@ -6,7 +6,10 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
 ## Información general
 
-- Modalidad: Virtual
+- Modalidad: 
+
+   - Virtual
+   - Inicio 10 de abril
 
 - Docentes: 
 
@@ -25,7 +28,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
 - **Relanzamiento:** 
    
-   - **Duración:** 2023/04/10 - 2023/06/26 (aprox. 12 semanas)
+   - **Duración:** 2023/04/10 - 2023/06/27 (12 semanas)
    - **Horarios:** Teoría, Lu y Ju 8pm (Hora Perú, asincrónico). *Práctica, Ma 8-10pm (Hora Perú, sincrónico)*
    - [Post informativo](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
    - **Observaciones:** *La parte práctica es sincrónica por Zoom, luego la grabación será subida a Youtube junto con el resto de clases de teoría.*
@@ -87,8 +90,10 @@ III. Referencias
 
 ## Contacto
 
-Interesados ponerse en contacto al siguiente correo:
+Interesados completar el siguiente formulario (hasta el 10 de abril):
+
+  [Formulario GEM](https://forms.gle/SqNTUfKyCNH32mZR9)
+
+Además, cualquier error o incorrección favor de escribir al correo:
 
   vcamarenap@uni.pe
-
-Además, cualquier error o incorrección favor de escribir al correo previo.
