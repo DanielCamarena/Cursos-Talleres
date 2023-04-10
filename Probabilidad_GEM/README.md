@@ -93,10 +93,10 @@ III. Referencias
 
 ## Contacto
 
-Interesados completar el siguiente formulario (hasta el 10 de abril):
+Interesados completar el siguiente formulario (cerrado):
 
   [Formulario GEM](https://forms.gle/SqNTUfKyCNH32mZR9)
 
-Además, cualquier error o incorrección favor de escribir al correo:
+Además, cualquier error o incorrección sobre el curso favor de escribir al correo:
 
   vcamarenap@uni.pe
