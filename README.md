@@ -8,7 +8,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Repositorio: 
  
-   - [Probabilidad_GEM](Probabilidad_GEM/)
+   - [GitHub](Probabilidad_GEM/)
+   - [YouTube](https://www.youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
 
 - Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
