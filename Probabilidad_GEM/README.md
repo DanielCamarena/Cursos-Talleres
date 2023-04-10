@@ -29,9 +29,10 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 - **Relanzamiento:** 
    
    - **Duración:** 2023/04/10 - 2023/06/27 (12 semanas)
-   - **Horarios:** Teoría, Lu y Ju 8pm (Hora Perú, asincrónico). *Práctica, Ma 8-10pm (Hora Perú, sincrónico)*
+   - **Horario de Teoría:** Lu y Ju 8pm (Hora Perú, asincrónico). 
+   - *Horario de Práctica:** *Ma 8-10pm (Hora Perú, sincrónico)*
    - [Post informativo](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
-   - **Observaciones:** *La parte práctica es sincrónica por Zoom, luego la grabación será subida a Youtube junto con el resto de clases de teoría.*
+   - **Observaciones:** *La parte práctica es sincrónica (no hay grabación), al siguiente día de la sesión se subirá la grabación a Youtube junto con el resto de clases de teoría.*
 
 - Requisitos:
    
