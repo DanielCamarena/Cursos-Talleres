@@ -91,7 +91,6 @@ III. Clases
    11c. El Teorema Central del Límite. [Material](). [Grabación](). <br>
    12a. El Teorema Central del Límite, extensiones. [Material](). [Grabación](). <br>
    12b. [Lista 11 de ejercicios (nuevo)](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Solucionario de Lista 11 (nuevo)](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
-   12c. [Clausura del curso (nuevo)](). <br>
    
 III. Referencias
    
