@@ -55,42 +55,41 @@ II. Repositorios:
 
 III. Clases
 
-
    1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg). <br>
-   p1. Introducción al curso (nuevo). [Material](https://drive.google.com/file/d/1_SMegv2qD7sLHVUjKTA91anonvRGibVz/view?usp=share_link). [Grabación](). <br>
+	p1. Clase práctica 1: Introducción al curso. [Material](https://drive.google.com/file/d/1_SMegv2qD7sLHVUjKTA91anonvRGibVz/view?usp=share_link). [Grabación](). <br>
    2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/gfS4voMJcwA). <br>
    3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg). <br>
-   p2. Lista 1 de ejercicios (nuevo): Espacios de probabilidad. [Enunciados](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Soluciones](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
+	p2. Clase práctica 2: Espacios de probabilidad. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
    4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4). <br>
    5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1nxy7fR-BNqMbVQRP4X0dKGqrWw5G74kC/view?usp=share_link). [Grabación](https://youtu.be/JXgDHkz5S-8). <br>
-   p3. Lista 2 de ejercicios (nuevo): Independencia. [Enunciados](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Soluciones](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
+	p3. Clase práctica 3: Independencia. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
    6. Función de Distribución. [Material](). [Grabación](https://youtu.be/dkTglvD0ToU). <br>
    7. Tipos de variables aleatorias. [Material](). [Grabación](https://youtu.be/f-LM-_RZ9yc). <br>
-   p4. Lista 3 de ejercicios (nuevo): Variables aleatorias. [Enunciados](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Soluciones](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
+   p4. Clase práctica 4: Variables aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
    8. Distribuciones de Variables Aleatorias. [Material](). [Grabación](https://youtu.be/EkzT4guT8og). <br>
    9. Vectores Aleatorios. [Material](). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
-   p5. Lista 4 de ejercicios (nuevo): Distribuciones de probabilidad. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p5.  Clase práctica 5: Distribuciones de probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    10. Distribución uniforme y convolución. [Material](). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
    11. Integración y esperanza matemática. [Material](). [Grabación](). <br>
-   p6. Lista 5 de ejercicios (nuevo): Vectores aleatorios. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p6. Clase práctica 6: Vectores aleatorios. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    12. Propiedades de la esperanza. [Material](). [Grabación](). <br>
    13. Momentos y funciones de vectores aleatorios. [Material](). [Grabación](). <br>
-   p7. Lista 6 de ejercicios (nuevo): Esperanza. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p7. Clase práctica 7: Esperanza. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    14. Teoremas de Convergencia. [Material](). [Grabación](). <br>
    15. Condicionamiento: caso discreto y continuo. [Material](). [Grabación](). <br>
-   p8. Lista 7 de ejercicios (nuevo): Momentos y Convergencia. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p8. Clase práctica 8: Momentos y Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    16. Distribución Condicional: caso general. [Material](). [Grabación](). <br>
    17. Esperanza Condicional. [Material](). [Grabación](). <br>
-   p9. Lista 8 de ejercicios (nuevo): Condicionamiento. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p9. Clase práctica 9: Condicionamiento. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    18. Las leyes de los grandes Números, la Ley Débil. [Material](). [Grabación](). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](). [Grabación](). <br>
-   p10. Lista 9 de ejercicios (nuevo): Leyes de grandes números y lema de Borel-cantelli. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p10. Clase práctica 10: Leyes de grandes números y lema de Borel-cantelli. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    20. Funciones Características. [Material](). [Grabación](). <br>
    21. Convergencia en Distribución. [Material](). [Grabación](). <br>
-   p11. Lista 10 de ejercicios (nuevo): Funciones características y convergencia en distribución. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p11. Clase práctica 11: Funciones características y convergencia en distribución. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    22. El Teorema Central del Límite. [Material](). [Grabación](). <br>
    23. El Teorema Central del Límite, extensiones. [Material](). [Grabación](). <br>
-   p12. Lista 11 de ejercicios (nuevo): Teorema Central del Límite. [Enunciados](). [Grabación](). [Soluciones](). <br>
+   p12. Clase práctica 12: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
 III. Referencias
    
