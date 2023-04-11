@@ -50,8 +50,8 @@ I. Temarios
 
 II. Repositorios:
 
-   - [YouTube (grabaciones)](https://youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
-   - [GitHub (material)](https://github.com/DanielCamarena/Cursos-Talleres/edit/main/Probabilidad_GEM/)
+   - [YouTube](https://youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
+   - [GitHub](https://github.com/DanielCamarena/Cursos-Talleres/edit/main/Probabilidad_GEM/)
 
 III. Clases
 
