@@ -91,7 +91,7 @@ III. Clases
    23. El Teorema Central del Límite, extensiones. [Material](). [Grabación](). <br>
    P12. Clase práctica 12: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
-III. Referencias
+IV. Referencias
    
    [1]. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
    [2]. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability <br>
