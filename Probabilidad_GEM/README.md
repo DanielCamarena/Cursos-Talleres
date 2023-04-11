@@ -13,13 +13,13 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
 - Docentes: 
 
-   - [David Morante](https://github.com/Dlay05)
-   - Miller Silva
-   - Jhon Astoquillca
+   - [David Morante (actual)](https://github.com/Dlay05)
    - [Daniel Camarena (actual)](https://github.com/DanielCamarena)
    - Francisco Herrera (actual)
    - Paolo Camarena (actual)
    - Kriss Gutierrez (actual)
+   - Miller Silva
+   - Jhon Astoquillca
 
 - Lanzamiento ([GEM UNI](https://www.facebook.com/GEMFCUNI)):
 
