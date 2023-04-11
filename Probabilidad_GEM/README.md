@@ -46,7 +46,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 I. Temarios
    
    - [Temario de lanzamiento (2021).](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
-   - Temario de relanzamiento (2023): Adiciona listas de ejercicios al temario previo.
+   - Temario de relanzamiento (2023): Adiciona clases de resolución de ejercicios al temario previo.
 
 II. Repositorios:
 
