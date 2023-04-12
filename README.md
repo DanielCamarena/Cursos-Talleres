@@ -76,6 +76,21 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    B1. Jacques Franchi, Procesos aleatorios en tiempo discreto <br>
    L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
 
+## Otros talleres
+
+Por parte de GEM:
+
+- Análisis Matemático.
+- Métodos Numéricos.
+- Cadenas de Markov **(Próximo relanzamiento)**.
+
+Por parte de Grupo CENTEC:
+
+- Matemática Aplicada con R.
+- Estadística Aplicada con R.
+- Econometría Avanzada **(Próximo lanzamiento)**.
+- Matemática Avanzada **(Próximo lanzamiento)**.
+
 
 ## Contacto
 
