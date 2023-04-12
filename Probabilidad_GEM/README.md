@@ -97,11 +97,6 @@ IV. Referencias
    [2]. [Bertsekas, D., & Tsitsiklis, J. N. (2008). Introduction to probability. Athena Scientific.](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) <br>
    [3]. [De Nápoli, P. (2023). Notas de Probabilidad y Estadística.](http://mate.dm.uba.ar/~pdenapo/notas_de_proba.pdf) <br>
 
-## Anuncios
-
-- Actualización de libros de referencia y enlace de cuestionario de entrada.
-
-
 ## Otros talleres
 
 Por parte de GEM:
@@ -115,16 +110,19 @@ Por parte de Grupo CENTEC:
 
 - Matemática Aplicada con R.
 - Estadística Aplicada con R.
+- Python para Machine Learning y Deep Learning **(Próximo lanzamiento)**.
 - Econometría Avanzada **(Próximo lanzamiento)**.
 - Matemática Avanzada **(Próximo lanzamiento)**.
 
 
-## Contacto
+## Anuncios
 
-Interesados completar el siguiente formulario (cerrado):
+- Se ha actualizado la lista de libros de referencia y el enlace de cuestionario de entrada.
+
+- Interesados completar el siguiente formulario (cerrado):
 
   [Formulario GEM](https://forms.gle/SqNTUfKyCNH32mZR9)
 
-Además, cualquier error o incorrección sobre el curso favor de escribir al correo:
+- Además, cualquier error o incorrección sobre el curso favor de escribir al correo:
 
   vcamarenap@uni.pe
