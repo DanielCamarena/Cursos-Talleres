@@ -102,7 +102,7 @@ IV. Referencias
 - Actualización de libros de referencia y enlace de cuestionario de entrada.
 
 
-## Todos los talleres
+## Otros talleres
 
 Por parte de GEM:
 
