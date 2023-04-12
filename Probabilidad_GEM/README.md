@@ -97,14 +97,26 @@ IV. Referencias
    [2]. [Bertsekas, D., & Tsitsiklis, J. N. (2008). Introduction to probability. Athena Scientific.](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) <br>
    [3]. [De Nápoli, P. (2023). Notas de Probabilidad y Estadística.](http://mate.dm.uba.ar/~pdenapo/notas_de_proba.pdf) <br>
 
+## Anuncios
 
-## Otros talleres
+- Actualización de libros de referencia y enlace de cuestionario de entrada.
 
-- [Cadenas de Markov](https://www.facebook.com/GEMFCUNI). **Próximo relanzamiento**.
 
-- Estadística. **Próximo lanzamiento**.
+## Todos los talleres
 
-- Procesos estocásticos. **Próximo lanzamiento**.
+Por parte de GEM:
+
+- Análisis Matemático.
+- Métodos Numéricos.
+- Cadenas de Markov **(Próximo relanzamiento)**.
+
+
+Por parte de Grupo CENTEC:
+
+- Matemática Aplicada con R.
+- Estadística Aplicada con R.
+- Econometría Avanzada **(Próximo lanzamiento)**.
+- Matemática Avanzada **(Próximo lanzamiento)**.
 
 
 ## Contacto
