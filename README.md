@@ -82,12 +82,12 @@ Por parte de GEM:
 
 - Análisis Matemático.
 - Métodos Numéricos.
-- Cadenas de Markov **(Próximo relanzamiento)**.
 
 Por parte de Grupo CENTEC:
 
 - Matemática Aplicada con R.
 - Estadística Aplicada con R.
+- Python para Machine Learning y Deep Learning **(Próximo lanzamiento)**.
 - Econometría Avanzada **(Próximo lanzamiento)**.
 - Matemática Avanzada **(Próximo lanzamiento)**.
 
