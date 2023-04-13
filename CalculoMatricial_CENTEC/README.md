@@ -1,1 +1,0 @@
-## Cáclulo matricial para econometría
