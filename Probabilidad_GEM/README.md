@@ -105,7 +105,6 @@ Por parte de GEM:
 - Métodos Numéricos.
 - Cadenas de Markov **(Próximo relanzamiento)**.
 
-
 Por parte de Grupo CENTEC:
 
 - Matemática Aplicada con R.
