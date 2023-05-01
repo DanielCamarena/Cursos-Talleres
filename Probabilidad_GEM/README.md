@@ -62,14 +62,14 @@ III. Clases
    P2. Clase práctica 2: Espacios de probabilidad. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](https://youtu.be/3wnu6eKbPLw). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
    4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4). <br>
    5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1nxy7fR-BNqMbVQRP4X0dKGqrWw5G74kC/view?usp=share_link). [Grabación](https://youtu.be/JXgDHkz5S-8). <br>
-   P3. Clase práctica 3: Independencia. [Lista de ejercicios](https://drive.google.com/file/d/15Nlo0o-dzFROBqw2okstQcI4O5-8wrZi/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/11iYAgzJ5awSE77_-19Gx6c2iRnKGE4nl/view?usp=share_link). <br>
+   P3. Clase práctica 3: Independencia. [Lista de ejercicios](https://drive.google.com/file/d/15Nlo0o-dzFROBqw2okstQcI4O5-8wrZi/view?usp=share_link). [Grabación](https://youtu.be/6tEBNiKSYc0). [Solucionario](https://drive.google.com/file/d/11iYAgzJ5awSE77_-19Gx6c2iRnKGE4nl/view?usp=share_link). <br>
    6. Función de Distribución. [Material](https://drive.google.com/file/d/19B64X3NddcwbAmuU598Djx7v5CluDCS0/view?usp=share_link). [Grabación](https://youtu.be/dkTglvD0ToU). <br>
    7. Tipos de variables aleatorias. [Material](https://drive.google.com/file/d/1xF0XOardCUvfbfC_bLCf8T7tCFnX3inB/view?usp=share_link). [Grabación](https://youtu.be/f-LM-_RZ9yc). <br>
-   P4. Clase práctica 4: Variables aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
+   P4. Clase práctica 4: Variables aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1rDgeg7kaZ1IHr2u0D6mUWCWQIx9VCfYr/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
    8. Distribuciones de Variables Aleatorias. [Material](https://drive.google.com/file/d/1cO6gk9DWHcc35Eibj1jMSPjp3JnX8EOJ/view?usp=share_link). [Grabación](https://youtu.be/EkzT4guT8og). <br>
-   9. Vectores Aleatorios. [Material](). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
+   9. Vectores Aleatorios. [Material](https://drive.google.com/file/d/1bkNDB3YAZXLCeagLTJMspl5ncFp4Q6pI/view?usp=share_link). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
    P5.  Clase práctica 5: Distribuciones de probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   10. Distribución uniforme y convolución. [Material](). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
+   10. Distribución uniforme y convolución. [Material](https://drive.google.com/file/d/1Lg-xPiBnm5cPsT-rJnVxVkVcFSWMEC9m/view?usp=share_link). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
    11. Integración y esperanza matemática. [Material](). [Grabación](). <br>
    P6. Clase práctica 6: Vectores aleatorios. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    12. Propiedades de la esperanza. [Material](). [Grabación](). <br>
