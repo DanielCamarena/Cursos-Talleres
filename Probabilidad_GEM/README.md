@@ -66,7 +66,7 @@ III. Clases
    6. Función de Distribución. [Material](https://drive.google.com/file/d/19B64X3NddcwbAmuU598Djx7v5CluDCS0/view?usp=share_link). [Grabación](https://youtu.be/dkTglvD0ToU). <br>
    7. Tipos de variables aleatorias. [Material](https://drive.google.com/file/d/1xF0XOardCUvfbfC_bLCf8T7tCFnX3inB/view?usp=share_link). [Grabación](https://youtu.be/f-LM-_RZ9yc). <br>
    P4. Clase práctica 4: Variables aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
-   8. Distribuciones de Variables Aleatorias. [Material](). [Grabación](https://youtu.be/EkzT4guT8og). <br>
+   8. Distribuciones de Variables Aleatorias. [Material](https://drive.google.com/file/d/1cO6gk9DWHcc35Eibj1jMSPjp3JnX8EOJ/view?usp=share_link). [Grabación](https://youtu.be/EkzT4guT8og). <br>
    9. Vectores Aleatorios. [Material](). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
    P5.  Clase práctica 5: Distribuciones de probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    10. Distribución uniforme y convolución. [Material](). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
