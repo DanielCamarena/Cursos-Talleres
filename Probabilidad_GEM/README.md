@@ -69,10 +69,10 @@ III. Clases
    8. Distribuciones de Variables Aleatorias. [Material](https://drive.google.com/file/d/1cO6gk9DWHcc35Eibj1jMSPjp3JnX8EOJ/view?usp=share_link). [Grabación](https://youtu.be/EkzT4guT8og). <br>
    9. Vectores Aleatorios. [Material](https://drive.google.com/file/d/1bkNDB3YAZXLCeagLTJMspl5ncFp4Q6pI/view?usp=share_link). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
    P5.  Clase práctica 5: Variables Aleatorias. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   10. Distribución uniforme y convolución. [Material](https://drive.google.com/file/d/1Lg-xPiBnm5cPsT-rJnVxVkVcFSWMEC9m/view?usp=share_link). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
-   11. Esperanza matemática e integración. [Material](https://drive.google.com/file/d/1rscVtTKJa_LJN5mIfEgaPRuce8JSm76_/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
+   10. Distribución Uniforme y Convolución. [Material](https://drive.google.com/file/d/1Lg-xPiBnm5cPsT-rJnVxVkVcFSWMEC9m/view?usp=share_link). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
+   11. Esperanza Matemática e Integración. [Material](https://drive.google.com/file/d/1rscVtTKJa_LJN5mIfEgaPRuce8JSm76_/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
    P6. Clase práctica 6: Distribuciones de Probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   12. Propiedades de la Esperanza. [Material](https://drive.google.com/file/d/11_jEqmOxNgKlGvlUby4HM8XEoXNIJV7F/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
+   12. Propiedades de la Esperanza. [Material](https://drive.google.com/file/d/11_jEqmOxNgKlGvlUby4HM8XEoXNIJV7F/view?usp=share_link). [Grabación](https://youtu.be/PIuKaasb98E). <br>
    13. Momentos y funciones de vectores aleatorios. [Material](). [Grabación](). <br>
    P7. Clase práctica 7: Esperanza. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    14. Teoremas de Convergencia. [Material](). [Grabación](). <br>
@@ -116,7 +116,7 @@ Por parte de Grupo CENTEC:
 
 ## Anuncios
 
-- Se ha actualizado la lista de libros de referencia y el enlace de cuestionario de entrada.
+- Se han actualizado las listas de ejercicios.
 
 - Interesados completar el siguiente formulario (cerrado):
 
