@@ -73,22 +73,22 @@ III. Clases
    11. Esperanza Matemática e Integración. [Material](https://drive.google.com/file/d/1rscVtTKJa_LJN5mIfEgaPRuce8JSm76_/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
    P6. Clase práctica 6: Distribuciones de Probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    12. Propiedades de la Esperanza. [Material](https://drive.google.com/file/d/11_jEqmOxNgKlGvlUby4HM8XEoXNIJV7F/view?usp=share_link). [Grabación](https://youtu.be/PIuKaasb98E). <br>
-   13. Momentos y funciones de vectores aleatorios. [Material](). [Grabación](https://youtu.be/aVbyDB7Mj1Q). <br>
-   P7. Clase práctica 7: Esperanza. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   14. Teoremas de Convergencia. [Material](). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
-   15. Condicionamiento: caso discreto y continuo. [Material](). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
+   13. Momentos y funciones de vectores aleatorios. [Material](https://drive.google.com/file/d/1FUQeFBUiMac2oNQ8TdJ6U2-zx86Lt9Tx/view?usp=share_link). [Grabación](https://youtu.be/aVbyDB7Mj1Q). <br>
+   P7. Clase práctica 7: Esperanza. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>   
+   14. Teoremas de Convergencia. [Material](https://drive.google.com/file/d/1gWNqH4VkoltW7pR3HgxrSwwlP6MkKWDF/view?usp=share_link). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
+   15. Condicionamiento: caso discreto y continuo. [Material](https://drive.google.com/file/d/1PraDlldsI8i4Vaxnjz_LacUZ9VVpW5kj/view?usp=share_link). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
    P8. Clase práctica 8: Momentos y Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   16. Distribución Condicional: caso general. [Material](). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
-   17. Esperanza Condicional. [Material](). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
+   16. Distribución Condicional: caso general. [Material](https://drive.google.com/file/d/1zngssBMKjpd3uQdCXvkFg2spFuqQ8HGC/view?usp=share_link). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
+   17. Esperanza Condicional. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
    P9. Clase práctica 9: Condicionamiento. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   18. Las leyes de los grandes Números, la Ley Débil. [Material](). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
-   19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
+   18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
+   19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/124sXe3pRuw2k__7zfNiLdB8FF2VCZ0Lo/view?usp=share_link). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
    P10. Clase práctica 10: Leyes de grandes números y lema de Borel-cantelli. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   20. Funciones Características. [Material](). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
-   21. Convergencia en Distribución. [Material](). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
+   20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
+   21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
    P11. Clase práctica 11: Funciones características y convergencia en distribución. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
-   22. El Teorema Central del Límite. [Material](). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
-   23. El Teorema Central del Límite, extensiones. [Material](). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
+   22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
+   23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
    P12. Clase práctica 12: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
 IV. Referencias
