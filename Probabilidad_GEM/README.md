@@ -68,7 +68,7 @@ III. Clases
    P4. Clase práctica 4: Espacios de probabilidad e Independencia (Python). [Lista de ejercicios](https://drive.google.com/file/d/1rDgeg7kaZ1IHr2u0D6mUWCWQIx9VCfYr/view?usp=share_link). [Grabación](https://youtu.be/vmInSkDowdU). [Cuaderno jupyter](https://drive.google.com/file/d/1KKLhCTqqofedCA4Rsdn5elpL3f8YARng/view?usp=sharing). <br>
    8. Distribuciones de Variables Aleatorias. [Material](https://drive.google.com/file/d/1cO6gk9DWHcc35Eibj1jMSPjp3JnX8EOJ/view?usp=share_link). [Grabación](https://youtu.be/EkzT4guT8og). <br>
    9. Vectores Aleatorios. [Material](https://drive.google.com/file/d/1bkNDB3YAZXLCeagLTJMspl5ncFp4Q6pI/view?usp=share_link). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
-   P5.  Clase práctica 5: Variables Aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1VQ0H3VOupwcVM5mfWy2RViAn-5H5pw-g/view?usp=share_link). [Grabación](). [Solucionario](). <br>
+   P5.  Clase práctica 5: Variables Aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1VQ0H3VOupwcVM5mfWy2RViAn-5H5pw-g/view?usp=share_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1ZDDknXQTg_CxbPwV_zmGMk51JTn_xOXF/view?usp=share_link). <br>
    10. Distribución Uniforme y Convolución. [Material](https://drive.google.com/file/d/1Lg-xPiBnm5cPsT-rJnVxVkVcFSWMEC9m/view?usp=share_link). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
    11. Esperanza Matemática e Integración. [Material](https://drive.google.com/file/d/1rscVtTKJa_LJN5mIfEgaPRuce8JSm76_/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
    P6. Clase práctica 6: Distribuciones de Probabilidad. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
