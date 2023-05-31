@@ -116,7 +116,7 @@ Por parte de Grupo CENTEC:
 
 ## Anuncios
 
-- Se han actualizado las listas de ejercicios.
+- En la sesión práctica 8 se tomará un pequeño test.
 
 - Interesados completar el siguiente formulario (cerrado):
 
