@@ -74,7 +74,7 @@ III. Clases
    P6. Clase práctica 6: Distribuciones de Probabilidad (R). [Cuaderno jupyter (R)](https://colab.research.google.com/drive/1Gz5pBRG3twu94XY2yC_HG6ewNipP0HFz?usp=share_link). [Grabación](https://youtu.be/LeVpiefqALw). [Cuaderno jupyter adicional (Python)](https://colab.research.google.com/drive/1vK6aHjPGRyQ0xj4CwHmep_o4sVPqkbd1?usp=share_link) <br>
    12. Propiedades de la Esperanza. [Material](https://drive.google.com/file/d/11_jEqmOxNgKlGvlUby4HM8XEoXNIJV7F/view?usp=share_link). [Grabación](https://youtu.be/PIuKaasb98E). <br>
    13. Momentos y funciones de vectores aleatorios. [Material](https://drive.google.com/file/d/1FUQeFBUiMac2oNQ8TdJ6U2-zx86Lt9Tx/view?usp=share_link). [Grabación](https://youtu.be/aVbyDB7Mj1Q). <br>
-   P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/1ek06SajnzPU2QnI6OdRrFQugNic5mKHJ?usp=share_link). [Grabación](https://youtu.be/yBPJhHMFW5k). [kahoot]() <br>   
+   P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/1ek06SajnzPU2QnI6OdRrFQugNic5mKHJ?usp=share_link). [Grabación](https://youtu.be/yBPJhHMFW5k). <br>   
    14. Teoremas de Convergencia. [Material](https://drive.google.com/file/d/1gWNqH4VkoltW7pR3HgxrSwwlP6MkKWDF/view?usp=share_link). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
    15. Condicionamiento: caso discreto y continuo. [Material](https://drive.google.com/file/d/1PraDlldsI8i4Vaxnjz_LacUZ9VVpW5kj/view?usp=share_link). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
    P8. Clase práctica 8: Momentos y Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
