@@ -77,10 +77,10 @@ III. Clases
    P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/1ek06SajnzPU2QnI6OdRrFQugNic5mKHJ?usp=share_link). [Grabación](https://youtu.be/yBPJhHMFW5k). <br>   
    14. Teoremas de Convergencia. [Material](https://drive.google.com/file/d/1gWNqH4VkoltW7pR3HgxrSwwlP6MkKWDF/view?usp=share_link). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
    15. Condicionamiento: caso discreto y continuo. [Material](https://drive.google.com/file/d/1PraDlldsI8i4Vaxnjz_LacUZ9VVpW5kj/view?usp=share_link). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
-   P8. Clase práctica 8: Momentos y Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P8. Clase práctica 8: Condicionamiento y Esperanza Condicional. [Lista de ejercicios](https://drive.google.com/file/d/1O3ovJihIquwGI5NpLMg73eIwKH-gMPfL/view?usp=share_link). [Cuaderno jupyter (Python)](). [Grabación](). [Solucionario de la lista](https://drive.google.com/file/d/1Pw8at3BihgbvMtfIkYUMYhzEiD9TDCB9/view?usp=share_link). <br>
    16. Distribución Condicional: caso general. [Material](https://drive.google.com/file/d/1zngssBMKjpd3uQdCXvkFg2spFuqQ8HGC/view?usp=share_link). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
    17. Esperanza Condicional. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
-   P9. Clase práctica 9: Condicionamiento. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P9. Clase práctica 9: Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/124sXe3pRuw2k__7zfNiLdB8FF2VCZ0Lo/view?usp=share_link). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
    P10. Clase práctica 10: Leyes de grandes números y lema de Borel-cantelli. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
