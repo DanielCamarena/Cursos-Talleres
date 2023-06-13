@@ -15,9 +15,9 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
    - [Daniel Camarena (actual)](https://github.com/DanielCamarena)
    - [David Morante (actual)](https://github.com/Dlay05)
-   - Paolo Camarena (actual)
-   - Kriss Gutierrez (actual)
    - Francisco Herrera (actual)
+   - Kriss Gutierrez (actual)
+   - Paolo Camarena (actual)
    - Miller Silva
    - Jhon Astoquillca
 
@@ -81,16 +81,15 @@ III. Clases
    P8. Clase práctica 8: Condicionamiento y Esperanza Condicional (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/16jPN6dGwapab5qVYMQj9OPCOdnEs2gvj?usp=sharing). [student-por.csv](https://drive.google.com/file/d/13CYyil3_edSwBeSW7fKPORAfbR22mtN3/view?usp=drive_link). [Grabación](https://youtu.be/IpGlnyIJoHM). <br>
    16. Distribución Condicional: caso general. [Material](https://drive.google.com/file/d/1zngssBMKjpd3uQdCXvkFg2spFuqQ8HGC/view?usp=share_link). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
    17. Esperanza Condicional. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
-   P9. Clase práctica 9: Convergencia. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P9. Clase práctica 9: Convergencia y Leyes de Grandes Números. [Lista de ejercicios](https://drive.google.com/file/d/1J4uNsslhpFiz385a69ko0C5bhhYmViSg/view?usp=drive_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1eLglEypqL12JMbs2SrUxgTPmrNU9MuoT/view?usp=drive_link). <br>
    18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/124sXe3pRuw2k__7zfNiLdB8FF2VCZ0Lo/view?usp=share_link). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
-   P10. Clase práctica 10: Leyes de grandes números y lema de Borel-cantelli. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
    21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
-   P11. Clase práctica 11: Funciones características y convergencia en distribución. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
    23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
-   P12. Clase práctica 12: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
 IV. Referencias
    
