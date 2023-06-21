@@ -84,7 +84,7 @@ III. Clases
    P9. Clase práctica 9: Convergencia y Leyes de Grandes Números. [Lista de ejercicios](https://drive.google.com/file/d/1J4uNsslhpFiz385a69ko0C5bhhYmViSg/view?usp=drive_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1eLglEypqL12JMbs2SrUxgTPmrNU9MuoT/view?usp=drive_link). <br>
    18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/124sXe3pRuw2k__7zfNiLdB8FF2VCZ0Lo/view?usp=share_link). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
-   P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Lista de ejercicios](https://drive.google.com/file/d/1HvDAYybsjeY5WK1Idi2wYIAj9xAihpOS/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/19wyKEXlw0UjV4UF6vdBDkQWLqGBeHyIJ?usp=drive_link). <br>
    20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
    21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
    P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
