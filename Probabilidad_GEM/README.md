@@ -87,10 +87,10 @@ III. Clases
    P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Lista de ejercicios](https://drive.google.com/file/d/1HvDAYybsjeY5WK1Idi2wYIAj9xAihpOS/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/19wyKEXlw0UjV4UF6vdBDkQWLqGBeHyIJ?usp=drive_link). <br>
    20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
    21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
-   P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/1OQ1u0sc3Nd_64xNVqbmb6SQyCu6uEpYq?usp=drive_link). <br>
    22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
    23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
-   P12a. Clase práctica 11: Introducción a los procesos estocásticos I. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P12a. Clase práctica 11: Introducción a los procesos estocásticos I. [Lista de ejercicios](). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
    P12b. Clase práctica 11: Introducción a los procesos estocásticos II. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
 IV. Referencias
