@@ -90,8 +90,8 @@ III. Clases
    P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/1OQ1u0sc3Nd_64xNVqbmb6SQyCu6uEpYq?usp=drive_link). <br>
    22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
    23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
-   P12a. Clase práctica 11: Introducción a los procesos estocásticos I. [Lista de ejercicios](). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
-   P12b. Clase práctica 11: Introducción a los procesos estocásticos II. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P12a. Clase práctica 11: Introducción a los procesos estocásticos I. [Teoría](https://drive.google.com/file/d/1XGhI9gA4O2hdBwL5btGe0uQA7m1bmOHn/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
+   P12b. Clase práctica 11: Introducción a los procesos estocásticos II. [Cuaderno jupyter](https://colab.research.google.com/drive/1mN_bGmsl8yJTkmYEVkJlG2seJw2bs94j?usp=drive_link). [Grabación](). <br>
    
 IV. Referencias
    
