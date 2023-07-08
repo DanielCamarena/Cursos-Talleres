@@ -77,21 +77,21 @@ III. Clases
    P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/1ek06SajnzPU2QnI6OdRrFQugNic5mKHJ?usp=share_link). [Grabación](https://youtu.be/yBPJhHMFW5k). <br>   
    14. Teoremas de Convergencia. [Material](https://drive.google.com/file/d/1gWNqH4VkoltW7pR3HgxrSwwlP6MkKWDF/view?usp=share_link). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
    15. Condicionamiento: caso discreto y continuo. [Material](https://drive.google.com/file/d/1PraDlldsI8i4Vaxnjz_LacUZ9VVpW5kj/view?usp=share_link). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
-   P8. Clase práctica 8: Condicionamiento y Esperanza Condicional. [Lista de ejercicios](https://drive.google.com/file/d/1O3ovJihIquwGI5NpLMg73eIwKH-gMPfL/view?usp=share_link). [Solucionario de la lista](https://drive.google.com/file/d/1Pw8at3BihgbvMtfIkYUMYhzEiD9TDCB9/view?usp=share_link). [Grabación](https://youtu.be/LI6kPmyOZis). <br>
-   P8. Clase práctica 8: Condicionamiento y Esperanza Condicional (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/16jPN6dGwapab5qVYMQj9OPCOdnEs2gvj?usp=sharing). [student-por.csv](https://drive.google.com/file/d/13CYyil3_edSwBeSW7fKPORAfbR22mtN3/view?usp=drive_link). [Grabación](https://youtu.be/IpGlnyIJoHM). <br>
+   P8. Clase práctica 8a: Condicionamiento y Esperanza Condicional. [Lista de ejercicios](https://drive.google.com/file/d/1O3ovJihIquwGI5NpLMg73eIwKH-gMPfL/view?usp=share_link). [Solucionario de la lista](https://drive.google.com/file/d/1Pw8at3BihgbvMtfIkYUMYhzEiD9TDCB9/view?usp=share_link). [Grabación](https://youtu.be/LI6kPmyOZis). <br>
+   P8. Clase práctica 8b: Condicionamiento y Esperanza Condicional (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/16jPN6dGwapab5qVYMQj9OPCOdnEs2gvj?usp=sharing). [student-por.csv](https://drive.google.com/file/d/13CYyil3_edSwBeSW7fKPORAfbR22mtN3/view?usp=drive_link). [Grabación](https://youtu.be/IpGlnyIJoHM). <br>
    16. Distribución Condicional: caso general. [Material](https://drive.google.com/file/d/1zngssBMKjpd3uQdCXvkFg2spFuqQ8HGC/view?usp=share_link). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
    17. Esperanza Condicional. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
-   P9. Clase práctica 9: Convergencia y Leyes de Grandes Números. [Lista de ejercicios](https://drive.google.com/file/d/10L8ilNUD2MZQMdLu3EXh6ZPaSYXFtb3D/view?usp=drive_link). [Grabación](). [Solucionario](https://drive.google.com/file/d/1eLglEypqL12JMbs2SrUxgTPmrNU9MuoT/view?usp=drive_link). <br>
+   P9. Clase práctica 9: Convergencia y Leyes de Grandes Números. [Lista de ejercicios](https://drive.google.com/file/d/10L8ilNUD2MZQMdLu3EXh6ZPaSYXFtb3D/view?usp=drive_link). [Grabación](https://youtu.be/RLTROtlqYqU). [Solucionario](https://drive.google.com/file/d/1eLglEypqL12JMbs2SrUxgTPmrNU9MuoT/view?usp=drive_link). <br>
    18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/124sXe3pRuw2k__7zfNiLdB8FF2VCZ0Lo/view?usp=share_link). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
-   P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Lista de ejercicios](https://drive.google.com/file/d/1dskobqjglYuL4siVkC17zCRglozXPE3t/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/19wyKEXlw0UjV4UF6vdBDkQWLqGBeHyIJ?usp=drive_link). <br>
+   P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Teoría](https://drive.google.com/file/d/1dskobqjglYuL4siVkC17zCRglozXPE3t/view?usp=drive_link). [Grabación](https://youtu.be/XMkh4Trb8XU). [Cuaderno jupyter](https://colab.research.google.com/drive/19wyKEXlw0UjV4UF6vdBDkQWLqGBeHyIJ?usp=drive_link). <br>
    20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
    21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
-   P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](https://drive.google.com/file/d/1FZMz9a8SWLkiCOS7TZtMydq2iIJfyRXP/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/1OQ1u0sc3Nd_64xNVqbmb6SQyCu6uEpYq?usp=drive_link). <br>
    22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
+   P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](https://drive.google.com/file/d/1FZMz9a8SWLkiCOS7TZtMydq2iIJfyRXP/view?usp=drive_link). [Grabación](https://youtu.be/CIfjw8J1w6Q). [Cuaderno jupyter](https://colab.research.google.com/drive/1OQ1u0sc3Nd_64xNVqbmb6SQyCu6uEpYq?usp=drive_link). <br>
    23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
-   P12a. Introducción a los procesos estocásticos I. [Teoría](https://drive.google.com/file/d/1XGhI9gA4O2hdBwL5btGe0uQA7m1bmOHn/view?usp=drive_link). [Grabación](). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
-   P12b. Introducción a los procesos estocásticos II. [Cuaderno jupyter](https://colab.research.google.com/drive/1mN_bGmsl8yJTkmYEVkJlG2seJw2bs94j?usp=drive_link). [Grabación](). <br>
+   P12a. Introducción a los procesos estocásticos I. [Teoría](https://drive.google.com/file/d/1XGhI9gA4O2hdBwL5btGe0uQA7m1bmOHn/view?usp=drive_link). [Grabación](https://youtu.be/Eg-bdPrzxvs). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
+   P12b. Introducción a los procesos estocásticos II. [Cuaderno jupyter](https://colab.research.google.com/drive/1mN_bGmsl8yJTkmYEVkJlG2seJw2bs94j?usp=drive_link). [Grabación](https://youtu.be/g9b7Txok1Tc). <br>
    
 IV. Referencias
    
@@ -120,9 +120,7 @@ Por parte de Grupo CENTEC:
 
 - Se ha finalizado la presente edición del curso.
 
-- Interesados completar el siguiente formulario (cerrado):
-
-  [Formulario GEM](https://forms.gle/SqNTUfKyCNH32mZR9)
+> Se ha actualizado todo el material y grabaciones.
 
 - Además, cualquier error o incorrección sobre el curso favor de escribir al correo:
 
