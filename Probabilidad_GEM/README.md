@@ -90,6 +90,8 @@ III. Clases
    P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
    23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
+   P12a. Clase práctica 11: Introducción a los procesos estocásticos I. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
+   P12b. Clase práctica 11: Introducción a los procesos estocásticos II. [Lista de ejercicios](). [Grabación](). [Solucionario](). <br>
    
 IV. Referencias
    
@@ -116,7 +118,7 @@ Por parte de Grupo CENTEC:
 
 ## Anuncios
 
-- En la sesión práctica 8 se tomará un pequeño test.
+- Se ha finalizado la presente edición del curso.
 
 - Interesados completar el siguiente formulario (cerrado):
 
