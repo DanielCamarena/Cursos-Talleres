@@ -81,17 +81,17 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 - Introducción a la Programación con R y Python
 
    - Post
-   - [Sitio web](/TalleresCortos_CENTEC/IntroProgramacion_CENTEC.md)
+   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#introducci%C3%B3n-a-la-programaci%C3%B3n-con-R-y-python)
 
 - Introducción al Análisis Matemático
 
    - Post
-   - [Sitio web](/TalleresCortos_CENTEC/IntroAnalisis_CENTEC.md)
+   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/README.md#introducci%C3%B3n-al-an%C3%A1lisis-matem%C3%A1tico)
 
 - Cálculo Matricial para Econometría
 
    - Post
-   - [Sitio web](/TalleresCortos_CENTEC/CalculoMatricial_CENTEC.md)
+   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#calculo-matricial-para-econometr%C3%ADa-con-matlab)
 
 
 ## Otros talleres
