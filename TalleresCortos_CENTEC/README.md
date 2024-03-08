@@ -12,6 +12,8 @@
    
    - Descripción: El objetivo es familiarizarse con la programación. No hay prerrequisitos.
 
+   - [Más info](./IntroProgramacion_CENTEC.md)
+
 
 ## Introducción al análisis matemático
    
@@ -23,6 +25,8 @@
    
    - Descripción: El objetivo es familiarizarse con el análisis matemático. No hay prerrequisitos.
 
+   - [Más info](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/IntroAnalisis_CENTEC.md)
+
 
 ## Calculo matricial para econometría con Matlab
    
@@ -33,6 +37,8 @@
    - Duración: 9 horas
    
    - Descripción: El objetivo es familiarizarse con el cálculo matricial en un entorno de programación. No hay prerrequisitos.
+
+   - [Más info](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/CalculoMatricial_CENTEC.md)
 
 ## Contacto
 
