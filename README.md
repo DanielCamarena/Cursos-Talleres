@@ -17,8 +17,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Duración: 
 
-   - Lanzamiento: 2021/04/24 - 2021/11/13
-   - Relanzamiento: 2023/04/10 - 2023/06/26
+   - Primera edición: 2021/04/24 - 2021/11/13
+   - Segunda edición: 2023/04/10 - 2023/06/26
 
 - Descripción: 
    
@@ -53,8 +53,8 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Duración: 
 
-   - Lanzamiento: 2021/11 - 2022/03
-   - Relanzamiento: **próximamente**
+   - Primera edición: 2021/11 - 2022/03
+   - Segunda edición: **en proceso**
 
 - Descripción/Resumen: 
    
@@ -76,38 +76,72 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    B1. Jacques Franchi, Procesos aleatorios en tiempo discreto <br>
    L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
 
+
+## Matemática Aplicada con R
+
+- Repositorio: 
+ 
+   - [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
+
+- Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+
+- Modalidad: Virtual
+
+- Duración: 
+
+   - Primera edición: 2021/11 - 2022/01
+   - Segunda edición: **en proceso**
+
+- Descripción/Resumen: 
+   
+   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+
+- Docentes: 
+
+   - [Daniel Camarena](https://github.com/DanielCamarena)
+   - Máximo Chavez
+   - Nelson Castro
+ 
+- Temario:
+
+   - [Primera edición](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   
+- Referencias
+   
+   - Jones (2014). Introduction to Scientific Programming and Simulation Using R
+   - Deisenroth (2020). Mathematics for machine learning
+   - Sydsaeter (1996). Matemáticas para el Análisis Económico
+
+
 ## Talleres cortos (Grupo CENTEC)
 
-- Introducción a la Programación con R y Python
+[Resumen sobre los talleres:](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/README.md)
 
-   - Post
-   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#introducci%C3%B3n-a-la-programaci%C3%B3n-con-R-y-python)
+- [Introducción a la Programación con R y Python](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#introducci%C3%B3n-a-la-programaci%C3%B3n-con-R-y-python)
 
-- Introducción al Análisis Matemático
+- [Introducción al Análisis Matemático](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/README.md#introducci%C3%B3n-al-an%C3%A1lisis-matem%C3%A1tico)
 
-   - Post
-   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/README.md#introducci%C3%B3n-al-an%C3%A1lisis-matem%C3%A1tico)
-
-- Cálculo Matricial para Econometría
-
-   - Post
-   - [Resumen](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#calculo-matricial-para-econometr%C3%ADa-con-matlab)
+- [Cálculo Matricial para Econometría](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC#calculo-matricial-para-econometr%C3%ADa-con-matlab)
 
 
 ## Otros talleres
 
-Por parte de GEM:
+Propios: 
 
-- Análisis Matemático.
-- Métodos Numéricos.
+- Métodos Numéricos con Python **(Próximo lanzamiento)**.
+- Análisis Matemático **(Próximo lanzamiento)**.
+- Álgebra Lineal.
 
-Por parte de Grupo CENTEC:
+En colaboración con el GEM:
 
-- Matemática Aplicada con R.
-- Estadística Aplicada con R.
-- Python para Machine Learning y Deep Learning **(Próximo lanzamiento)**.
-- Econometría Avanzada **(Próximo lanzamiento)**.
-- Matemática Avanzada **(Próximo lanzamiento)**.
+- Cadenas de Markov, 2da edición.
+- Series de Tiempo **(Próximo lanzamiento)**.
+
+En colaboración con el CENTEC:
+
+- Matemática Aplicada con Python.
+- Estadística Aplicada con Python.
+- Matemática Avanzada para Economistas **(Próximo lanzamiento)**.
 
 
 ## Contacto
