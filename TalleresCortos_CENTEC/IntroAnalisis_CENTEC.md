@@ -21,6 +21,7 @@
     - Demostraciones
     - Noción intuitiva de conjuntos
     - Operaciones con conjuntos
+    - Leyes con conjuntos
 
 - Conjuntos y Números Reales
 
