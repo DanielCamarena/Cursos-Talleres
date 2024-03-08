@@ -11,7 +11,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    - [GitHub](Probabilidad_GEM/)
    - [YouTube](https://www.youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
 
-- Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
+- Institución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
 - Modalidad: Virtual
 
@@ -47,7 +47,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
  
    - [CadenasMarkov_GEM](CadenasMarkov_GEM/)
 
-- Insitución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
+- Institución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
 
 - Modalidad: Virtual
 
@@ -83,7 +83,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
  
    - [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
 
-- Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
+- Institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
 
 - Modalidad: Virtual
 
