@@ -4,43 +4,35 @@
 
 ## Introducción a la Programación con R y Python
 
-   - Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-   
    - Modalidad: Virtual
+
+   - Fecha: 2021/04
    
-   - Fecha: 2021/04 - 2021/XX
+   - Duración: 12 horas
    
-   - Documento R: [`.pdf`](../main/03/gem2017.pdf)
-   
-   - Documento Python: [`.pdf`](../main/03/gem2017.pdf)
-   
-   - Descripción: ...
+   - Descripción: El objetivo es familiarizarse con la programación. No hay prerrequisitos.
 
 
 ## Introducción al análisis matemático
-
-   - Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    
    - Modalidad: Virtual
    
-   - Fecha: 2021/04 - 2021/XX
+   - Fecha: 2021/09
+
+   - Duración: 4 horas
    
-   - Documento: [`.pdf`](../main/03/gem2017.pdf)
-   
-   - Descripción: ...
+   - Descripción: El objetivo es familiarizarse con el análisis matemático. No hay prerrequisitos.
 
 
 ## Calculo matricial para econometría con Matlab
-
-   - Insitución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
    
    - Modalidad: Presencial
    
-   - Fecha: 2021/XX
+   - Fecha: 2022/04
+
+   - Duración: 9 horas
    
-   - Documento: [`.pdf`](../main/03/gem2017.pdf)
-   
-   - Descripción: ...
+   - Descripción: El objetivo es familiarizarse con el cálculo matricial en un entorno de programación. No hay prerrequisitos.
 
 ## Contacto
 
