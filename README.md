@@ -60,7 +60,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Descripción/Resumen: 
    
-   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+   En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.
 
 - Docentes:
 
@@ -79,49 +79,52 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Estadística Aplicada con R
 
-- Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
+- Repositorio: [EstadisticaR_CENTEC](EstadisticaR_CENTEC/)
 
 - Descripción/Resumen: 
    
-   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+   Especialización en estadística que cubre desde lo básico del manejo de R, estadística descriptiva e inferencial hasta los fundamentos y aplicaciones de la ciencia de datos y el aprendizaje automático. También se abarcan diversos tópicos complementarios para economía y finanzas como estadística Bayesiana, espacial y de datos panel.
 
 - Docentes:
 
-   - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
+   - [Daniel Camarena](https://github.com/DanielCamarena), Christian Jeremias, Abraham Zamudio, Luis Gavidia, Aaron Paz
  
 - Modalidad: Virtual
 
-   - Primera edición: 2021/11 - 2022/01, [temario](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Primera edición: 2022/10 - 2022/12, [temario](https://drive.google.com/file/d/1rWbyPvvxBWnxxdc39EiPaDt7dtRohX0M/view?usp=sharing)
    - Segunda edición: **en proceso**
    
 - Referencias
    
-   - Jones (2014). Introduction to Scientific Programming and Simulation Using R
-   - Deisenroth (2020). Mathematics for machine learning
-   - Sydsaeter (1996). Matemáticas para el Análisis Económico
+   - Hadley Wickham. R para Ciencia de Datos
+   - Luis Díaz. Estadística Multivariada
+   - James et al. An Introduction to Statistical Learning
+   - Correa & Barrera. Introducción a la Estadística Bayesiana
+   - Jean-Francois Mas. Análisis Espacial con R
+   - Jeffrey M. Wooldridge. Introducción a la econometría
 
 ## Redacción Científica con LaTeX, R y Python
 
-- Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
+- Repositorio: [RedaccionCientifica_CENTEC](RedaccionCientifica_CENTEC/)
 
 - Descripción/Resumen: 
    
-   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+   LaTeX es una herramienta de software libre muy potente que permite crear documentos de alta calidad, es muy utilizado para la creación de libros, informes y artículos, sobretodo en el mundo científico así como sorprendentes presentaciones. Además, R y Python gozan de un entorno de desarrollo que permite documentar y comunicar tanto la realización de un proyecto como sus resultados y conclusiones en diversos formatos como reportes y presentaciones que combinan texto y código en un solo archivo.
 
 - Docentes:
 
-   - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
+   - [Daniel Camarena](https://github.com/DanielCamarena), Francisco Herrera
  
 - Modalidad: Virtual
 
-   - Primera edición: 2021/11 - 2022/01, [temario](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Primera edición: 2023/03 - 2022/04, [temario](https://drive.google.com/file/d/1Wyy99OlCwMRqLZDms6UeUmpzAl_jDw--/view?usp=sharing)
    - Segunda edición: **en proceso**
    
 - Referencias
    
-   - Jones (2014). Introduction to Scientific Programming and Simulation Using R
-   - Deisenroth (2020). Mathematics for machine learning
-   - Sydsaeter (1996). Matemáticas para el Análisis Económico
+   - Documentación de LaTeX y Overleaf
+   - Documentación de RStudio y Rmarkdown
+   - Documentación de Jupyter
 
 
 ## Talleres cortos (Grupo CENTEC)
