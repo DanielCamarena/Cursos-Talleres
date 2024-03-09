@@ -3,7 +3,6 @@
 Cursos, talleres y seminarios de corta a mediana duración sobre matemática, computación y estadística.
 
 
-
 ## Teoría de la probabilidad
 
 - Repositorio: 
