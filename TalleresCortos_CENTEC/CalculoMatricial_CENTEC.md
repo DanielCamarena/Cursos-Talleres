@@ -26,19 +26,19 @@ Parte intrincada de algunas aplicaciones económicas puede llegar a ser esquiva 
 
 Primera sesión:
 
-    - [Teoría](https://drive.google.com/file/d/1GtQ0b9w34l76DCPaHjzMxQNTgZ9deBVa/view?usp=sharing).
-    - [Laboratorio](https://drive.google.com/file/d/1Z6TWZR3BuU9Ijn2FPwA6wpzQB4Qnk1li/view?usp=sharing).
+   - [Teoría](https://drive.google.com/file/d/1GtQ0b9w34l76DCPaHjzMxQNTgZ9deBVa/view?usp=sharing).
+   - [Laboratorio](https://drive.google.com/file/d/1Z6TWZR3BuU9Ijn2FPwA6wpzQB4Qnk1li/view?usp=sharing).
     
 Segunda sesión:
     
-    - [Teoría](https://drive.google.com/file/d/10nGqbiipLFa1i_Og_U6ShJon-7qIInYJ/view?usp=sharing).
-    - [Laboratorio](https://drive.google.com/file/d/15ZPOjpDjDJLDW7qXLcrS3zsDbPSVSHda/view?usp=sharing).
+   - [Teoría](https://drive.google.com/file/d/10nGqbiipLFa1i_Og_U6ShJon-7qIInYJ/view?usp=sharing).
+   - [Laboratorio](https://drive.google.com/file/d/15ZPOjpDjDJLDW7qXLcrS3zsDbPSVSHda/view?usp=sharing).
 
 Tercera sesión:
     
-    - [Teoría](https://drive.google.com/file/d/1YwCN_qKPAx8vA3wFeHnl5oWqiEaqhUCp/view?usp=sharing).
-    - [Laboratorio](https://drive.google.com/file/d/1-BRYl6AHsTxugzCqbdDymVBkBU8dPctU/view?usp=sharing).
-    - Aplicación: matriz Cholesky y VaR (Value at Risk).
+   - [Teoría](https://drive.google.com/file/d/1YwCN_qKPAx8vA3wFeHnl5oWqiEaqhUCp/view?usp=sharing).
+   - [Laboratorio](https://drive.google.com/file/d/1-BRYl6AHsTxugzCqbdDymVBkBU8dPctU/view?usp=sharing).
+   - Aplicación: matriz Cholesky y VaR (Value at Risk).
 
 Referencias
 
