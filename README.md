@@ -117,7 +117,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
  
 - Modalidad: Virtual
 
-   - Primera edición: 2023/03 - 2022/04, [temario](https://drive.google.com/file/d/1Wyy99OlCwMRqLZDms6UeUmpzAl_jDw--/view?usp=sharing)
+   - Primera edición: 2023/03 - 2023/04, [temario](https://drive.google.com/file/d/1Wyy99OlCwMRqLZDms6UeUmpzAl_jDw--/view?usp=sharing)
    - Segunda edición: **en proceso**
    
 - Referencias
