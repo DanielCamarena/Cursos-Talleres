@@ -11,25 +11,19 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    - [GitHub](Probabilidad_GEM/)
    - [YouTube](https://www.youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
 
-- Institución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
-
-- Modalidad: Virtual
-
-   - Primera edición: 2021/04/24 - 2021/11/13
-   - Segunda edición: 2023/04/10 - 2023/06/26
-
 - Descripción: 
    
    [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas (aprox.) por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
 
-- Docentes: 
+ - Docentes: 
 
-   - [David Morante](https://github.com/Dlay05), Miller Silva, Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena)
+   - [David Morante](https://github.com/Dlay05), Miller Silva, Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena), otros
 
-- Temario:
+- Modalidad: Virtual
 
-   - [Primera edición](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
-   
+   - Primera edición: 2021/04/24 - 2021/11/13, [temario](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+   - Segunda edición: 2023/04/10 - 2023/06/26
+
 - Referencias
    
    a. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
@@ -38,16 +32,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Cadenas de Markov
 
-- Repositorio: 
- 
-   - [CadenasMarkov_GEM](CadenasMarkov_GEM/)
-
-- Institución: [GEM (UNI)](https://www.facebook.com/GEMFCUNI)
-
-- Modalidad: Virtual
-
-   - Primera edición: 2021/11 - 2022/03
-   - Segunda edición: **en proceso**
+- Repositorio: [CadenasMarkov_GEM](CadenasMarkov_GEM/)
 
 - Descripción/Resumen: 
    
@@ -57,9 +42,10 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
    - Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena), [David Morante](https://github.com/Dlay05)
  
-- Temario:
+- Modalidad: Virtual
 
-   - [Primera edición](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
+   - Primera edición: 2021/11 - 2022/03, [temario](https://drive.google.com/file/d/1UlCFuK2Tdc7fmFs4SE6qoFF_5qrAV78V/view?usp=share_link)
+   - Segunda edición: **en proceso**
    
 - Referencias
    
@@ -70,16 +56,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 ## Matemática Aplicada con R
 
-- Repositorio: 
- 
-   - [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
-
-- Institución: [Grupo CENTEC](https://www.facebook.com/grupocentec)
-
-- Modalidad: Virtual
-
-   - Primera edición: 2021/11 - 2022/01
-   - Segunda edición: **en proceso**
+- Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
 
 - Descripción/Resumen: 
    
@@ -89,9 +66,56 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
    - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
  
-- Temario:
+- Modalidad: Virtual
 
-   - [Primera edición](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Primera edición: 2021/11 - 2022/01, [temario](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Segunda edición: **en proceso**
+   
+- Referencias
+   
+   - Jones (2014). Introduction to Scientific Programming and Simulation Using R
+   - Deisenroth (2020). Mathematics for machine learning
+   - Sydsaeter (1996). Matemáticas para el Análisis Económico
+
+## Estadística Aplicada con R
+
+- Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
+
+- Descripción/Resumen: 
+   
+   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+
+- Docentes:
+
+   - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
+ 
+- Modalidad: Virtual
+
+   - Primera edición: 2021/11 - 2022/01, [temario](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Segunda edición: **en proceso**
+   
+- Referencias
+   
+   - Jones (2014). Introduction to Scientific Programming and Simulation Using R
+   - Deisenroth (2020). Mathematics for machine learning
+   - Sydsaeter (1996). Matemáticas para el Análisis Económico
+
+## Redacción Científica con LaTeX, R y Python
+
+- Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
+
+- Descripción/Resumen: 
+   
+   [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
+
+- Docentes:
+
+   - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
+ 
+- Modalidad: Virtual
+
+   - Primera edición: 2021/11 - 2022/01, [temario](https://drive.google.com/file/d/1kFZ-oqUC_OeHs4rXcTd3G6RD1Rq0WpIO/view?usp=sharing)
+   - Segunda edición: **en proceso**
    
 - Referencias
    
