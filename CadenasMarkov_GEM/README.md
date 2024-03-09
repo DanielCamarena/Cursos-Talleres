@@ -12,8 +12,8 @@ Taller de nivel *avanzado* sobre la teoría de cadenas de Markov.
 
 - Duración: 
 
-   - Lanzamiento: 2021/11 - 2022/03
-   - Relanzamiento: **próximamente**
+   - Primera edición: 2021/11 - 2022/03
+   - Segunda edición: **en proceso**
 
 - Docentes: 
 
