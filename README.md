@@ -15,8 +15,6 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración: 
-
    - Primera edición: 2021/04/24 - 2021/11/13
    - Segunda edición: 2023/04/10 - 2023/06/26
 
@@ -26,10 +24,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Docentes: 
 
-   - [David Morante](https://github.com/Dlay05)
-   - Miller Silva
-   - Jhon Astoquillca
-   - [Daniel Camarena](https://github.com/DanielCamarena)
+   - [David Morante](https://github.com/Dlay05), Miller Silva, Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena)
 
 - Temario:
 
@@ -51,8 +46,6 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración: 
-
    - Primera edición: 2021/11 - 2022/03
    - Segunda edición: **en proceso**
 
@@ -62,9 +55,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Docentes: 
 
-   - Jhon Astoquillca
-   - [Daniel Camarena](https://github.com/DanielCamarena)
-   - [David Morante](https://github.com/Dlay05)
+   - Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena), [David Morante](https://github.com/Dlay05)
  
 - Temario:
 
@@ -87,8 +78,6 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Modalidad: Virtual
 
-- Duración: 
-
    - Primera edición: 2021/11 - 2022/01
    - Segunda edición: **en proceso**
 
@@ -96,11 +85,9 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    
    [ En el presente programa especializado se cubre desde lo básico como combinatoria y grafos, cálculo diferencial e integral, sistemas lineales hasta tópicos intermedios como álgebra lineal, cálculo en varias variables, optimización, probabilidad y estadística, más un módulo de introducción a la teoría del riesgo para seguros. Se acompaña el aprendizaje con R como software de programación científica siguiendo un enfoque aplicado a economía y ciencia de datos.](https://www.facebook.com/GEMFCUNI/posts/pfbid0axQFuTPstJ6ErGkQgcYCQp5dgt2Kmou9Fp5NiwwxVtvVmohyUActGWZn4QP8cFAEl)
 
-- Docentes: 
+- Docentes:
 
-   - [Daniel Camarena](https://github.com/DanielCamarena)
-   - Máximo Chavez
-   - Nelson Castro
+   - [Daniel Camarena](https://github.com/DanielCamarena), Máximo Chavez, Nelson Castro
  
 - Temario:
 
