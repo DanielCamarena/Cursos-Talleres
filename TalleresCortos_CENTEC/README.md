@@ -28,7 +28,7 @@
    - [Más info](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/IntroAnalisis_CENTEC.md)
 
 
-## Calculo matricial para econometría con Matlab
+## Calculo matricial con Matlab
    
    - Modalidad: Presencial
    
