@@ -23,4 +23,4 @@
 
 ## Temario
 
-[Primera clase](https://www.facebook.com/grupocentec/videos/351628303399437/). 
+[Primera clase](https://www.facebook.com/grupocentec/videos/351628303399437/) (desde 14:00 en adelante). 
