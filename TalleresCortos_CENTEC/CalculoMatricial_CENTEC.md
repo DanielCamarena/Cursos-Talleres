@@ -42,6 +42,6 @@ Tercera sesión:
 
 Referencias
 
-- Parra. [Álgebra Matricial](http://economia.uc.cl/docs/trd_75_v2.pdf).
+- Parra. Álgebra Matricial.
 - Greene. Análisis Econométrico
 - Monsalve. Álgebra lineal
