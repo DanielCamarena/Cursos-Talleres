@@ -137,7 +137,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 - [Cálculo Matricial con Matlab](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC/CalculoMatricial_CENTEC.md)
 
 
-## Lista de talleres
+## Lista de cursos y talleres
 
 Independientes: 
 
@@ -147,18 +147,19 @@ Independientes:
 
 Asociados al GEM:
 
-- Cadenas de Markov, 2da edición.
+- Teoría de la Probabilidad. 
+- Cadenas de Markov.
 - Series de Tiempo **(Próximo lanzamiento)**.
 
 Asociados a Grupo CENTEC:
 
-- Matemática Aplicada con Python.
-- Estadística Aplicada con Python.
-- Matemática Avanzada para Economistas **(Próximo lanzamiento)**.
+- Matemática Aplicada con R.
+- Estadística Aplicada con R.
+- Matemática Avanzada para Economistas **(Próxima edición)**.
 
 Asociados al IMCA:
 
-- Programación (con Python)
+- Programación.
 
 ## Contacto
 
