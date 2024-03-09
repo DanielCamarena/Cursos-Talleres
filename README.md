@@ -148,7 +148,7 @@ Independientes:
 Asociados al GEM:
 
 - Teoría de la Probabilidad. 
-- Cadenas de Markov.
+- Cadenas de Markov **(Próxima edición)**.
 - Series de Tiempo **(Próximo lanzamiento)**.
 
 Asociados a Grupo CENTEC:
