@@ -121,7 +121,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - [Introducción al Análisis Matemático](https://github.com/DanielCamarena/Cursos-Talleres/blob/main/TalleresCortos_CENTEC/IntroAnalisis_CENTEC.md)
 
-- [Cálculo Matricial para Econometría](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC/CalculoMatricial_CENTEC.md)
+- [Cálculo Matricial con Matlab](https://github.com/DanielCamarena/Cursos-Talleres/tree/main/TalleresCortos_CENTEC/CalculoMatricial_CENTEC.md)
 
 
 ## Otros talleres
