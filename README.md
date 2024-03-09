@@ -1,4 +1,4 @@
-# Talleres-Seminarios
+# Cursos-Talleres
 
 Cursos, talleres y seminarios de corta a mediana duración sobre matemática, computación y estadística.
 
