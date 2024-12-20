@@ -26,12 +26,12 @@ Taller de nivel *avanzado* sobre la teoría de cadenas de Markov.
    C-1. Presentación del taller - Nociones básicas de probabilidad y medida. [Material](https://drive.google.com/file/d/1CepqtQdvbajY97mqW1LFBpUlFdyIIhVh/view?usp=drive_link). [Grabación]().<br>
    C0. Esperanza condicional. [Material](https://drive.google.com/file/d/1mBELWlx_m4ajRfQfb6SCm2d6ytxAW6yC/view?usp=drive_link). [Grabación]().<br>
    C1. Introducción y motivaciones I. [Material](https://drive.google.com/file/d/1E94-ftrWjHKHCWnTnkkUM24Ck50-S111/view?usp=drive_link). [Grabación]().<br>
-   C2. Introducción y motivaciones II. [Material](). [Grabación]().<br>
+   C2. Introducción y motivaciones II. [Material](https://drive.google.com/file/d/1T67MzzIuBehqt_2gyOMcqzhyGhDFWOX1/view?usp=drive_link). [Grabación]().<br>
    L0. Introducción a python para computación científica. [Material](). [Grabación]().<br>
    L1. Simulación de cadenas de Markov. [Material](). [Grabación]().<br>
-   C3. Espacio Canónico. [Material](). [Grabación]().<br>
-   C4. Propiedad fuerte de Markov. [Material](). [Grabación]().<br>
-   C5. Aplicaciones de la propiedad fuerte de Markov. [Material](). [Grabación]().<br>
+   C3. Espacio Canónico. [Material](https://drive.google.com/file/d/1qSmgLfvTlDNcJ45KrjIZLEjx3CMw7Aql/view?usp=drive_link). [Grabación]().<br>
+   C4. Propiedad fuerte de Markov. [Material](https://drive.google.com/file/d/1zJlbZ4_LKCJ70yAXAUgdbHku23wzVeuu/view?usp=drive_link). [Grabación]().<br>
+   C5. Aplicaciones de la propiedad fuerte de Markov. [Material](https://drive.google.com/file/d/18Sn5BJmqcwKhoI6Ws5Qr27wP5bRhdzeg/view?usp=drive_link). [Grabación]().<br>
    L2. Propiedades de cadenas de Markov. [Material](). [Grabación]().<br>
    L3. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación]().<br>
    C6. Clasificación de estados. [Material](). [Grabación]().<br>
