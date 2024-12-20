@@ -9,7 +9,7 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 
 - Descripción/Resumen: 
    
-   [El presente taller propuesto persigue introducir a los participantes al mundo de los fundamentos de las análisis de series de tiempo como una continuación/bifurcación de la teoría de procesos estocásticos introducida con las cadenas de Markov. Se cubren los tópicos cruciales como el análisis en el dominio frecuencia y el problema de pronóstico en el tiempo. Se busca así a establecer una panorámica de los análisis de series de tiempo, involucrando las ténicas modernas inclusive. El enfoque a seguir será teórico-práctico con énfasis en la buena comprensión y aplicación de la teoría a problemas académicos y científicos.]()
+   [El presente taller propuesto persigue introducir a los participantes al mundo de los fundamentos de las análisis de series de tiempo como una continuación/bifurcación de la teoría de procesos estocásticos introducida con las cadenas de Markov. Se cubren los tópicos cruciales como el análisis en el dominio frecuencia y el problema de pronóstico en el tiempo. Se busca así a establecer una panorámica de los análisis de series de tiempo, involucrando las ténicas modernas inclusive. El enfoque a seguir será teórico-práctico con énfasis en la buena comprensión y aplicación de la teoría a problemas matemáticos y científicos.]()
 
 - Docentes: 
 
