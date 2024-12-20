@@ -3,31 +3,27 @@
 Cursos, talleres y seminarios de corta a mediana duración sobre matemática, computación y estadística.
 
 
-## Teoría de la probabilidad
+## Series de Tiempo
 
-- Repositorio: 
- 
-   - [GitHub](Probabilidad_GEM/)
-   - [YouTube](https://www.youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
+- Repositorio: [SeriesTemporales_GEM](SeriesTemporales_GEM/)
 
-- Descripción: 
+- Descripción/Resumen: 
    
-   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas (aprox.) por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
+   [El presente taller propuesto persigue introducir a los participantes al mundo de los fundamentos de las análisis de series de tiempo como una continuación/bifurcación de la teoría de procesos estocásticos introducida con las cadenas de Markov. Se cubren los tópicos cruciales como el análisis en el dominio frecuencia y el problema de pronóstico en el tiempo. Se busca así a establecer una panorámica de los análisis de series de tiempo, involucrando las ténicas modernas inclusive. El enfoque a seguir será teórico-práctico con énfasis en la buena comprensión y aplicación de la teoría a problemas académicos y científicos.]()
 
- - Docentes: 
+- Docentes: 
 
-   - [David Morante](https://github.com/Dlay05), Miller Silva, Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena), otros
-
+   - [Daniel Camarena](https://github.com/DanielCamarena), [Francisco Herrera]()
+ 
 - Modalidad: Virtual
 
-   - Primera edición: 2021/04/24 - 2021/11/13, [temario](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
-   - Segunda edición: 2023/04/10 - 2023/06/26
-
+   - Primera edición: 2024/01 - 2024/04, [temario]()
+   
 - Referencias
    
-   a. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
-   b. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability <br>
-
+   T1. Durrett, Probability Theory, Springer <br>
+   T2. Hamilton, Time Series Analysis <br>
+   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
 
 ## Cadenas de Markov
 
@@ -53,27 +49,30 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
 
 
-## Series de Tiempo
+## Teoría de la probabilidad
 
-- Repositorio: [SeriesTemporales_GEM](SeriesTemporales_GEM/)
-
-- Descripción/Resumen: 
-   
-   [El presente taller propuesto persigue introducir a los participantes al mundo de los fundamentos de las análisis de series de tiempo como una continuación/bifurcación de la teoría de procesos estocásticos introducida con las cadenas de Markov. Se cubren los tópicos cruciales como el análisis en el dominio frecuencia y el problema de pronóstico en el tiempo. Se busca así a establecer una panorámica de los análisis de series de tiempo, involucrando las ténicas modernas inclusive. El enfoque a seguir será teórico-práctico con énfasis en la buena comprensión y aplicación de la teoría a problemas académicos y científicos.]()
-
-- Docentes: 
-
-   - [Daniel Camarena](https://github.com/DanielCamarena), [Francisco Herrera]()
+- Repositorio: 
  
+   - [GitHub](Probabilidad_GEM/)
+   - [YouTube](https://www.youtube.com/playlist?list=PLYeULBCgR9DXFIZY_tX-FCOocFPqfu2IQ)
+
+- Descripción: 
+   
+   [Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posgrado, egresados y público interesado. En el relanzamiento las clases tienen una frecuencia de 2+1 sesiones de 1.5 horas (aprox.) por semana, donde 2 sesiones son de teoría (asincrónicas) y 1 sesión es de práctica (sincrónica).](https://www.facebook.com/GEMFCUNI/posts/pfbid025QnWHQb9F6HdTH8HNZiqf6SL1T19WXqCrdWwm41ccxiccLfUUBca9czd3AtG4Z3ul)
+
+ - Docentes: 
+
+   - [David Morante](https://github.com/Dlay05), Miller Silva, Jhon Astoquillca, [Daniel Camarena](https://github.com/DanielCamarena), otros
+
 - Modalidad: Virtual
 
-   - Primera edición: 2024/01 - 2024/04, [temario]()
-   
+   - Primera edición: 2021/04/24 - 2021/11/13, [temario](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+   - Segunda edición: 2023/04/10 - 2023/06/26
+
 - Referencias
    
-   T1. Durrett, Probability Theory, Springer <br>
-   T2. Hamilton, Time Series Analysis <br>
-   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
+   a. Barry James, Probabilidad: Un curso de nivel intermedio. Textos IMCA <br>
+   b. Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability <br>
 
 
 ## Matemática Aplicada con R
@@ -165,20 +164,20 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
 Independientes: 
 
 - Métodos Numéricos con Python **(Próximo lanzamiento)**.
-- Análisis Matemático **(Próximo lanzamiento)**.
+- Análisis Matemático.
 - Álgebra Lineal.
 
 Asociados al GEM:
 
 - Teoría de la Probabilidad. 
-- Cadenas de Markov **(Próxima edición)**.
-- Series de Tiempo **(Próximo lanzamiento)**.
+- Cadenas de Markov.
+- Series de Tiempo **(En lanzamiento)**.
 
 Asociados a Grupo CENTEC:
 
 - Matemática Aplicada con R.
-- Estadística Aplicada con R.
-- Matemática Avanzada para Economistas **(Próxima edición)**.
+- Estadística Aplicada con R **(Próxima edición)**.
+- Matemática Avanzada para Economistas.
 
 Asociados al IMCA:
 
