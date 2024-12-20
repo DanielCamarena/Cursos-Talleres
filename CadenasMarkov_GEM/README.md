@@ -27,18 +27,18 @@ Taller de nivel *avanzado* sobre la teoría de cadenas de Markov.
    C0. Esperanza condicional. [Material](https://drive.google.com/file/d/1mBELWlx_m4ajRfQfb6SCm2d6ytxAW6yC/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1d8IRJ3y0S-wzYba15R6HnmiDSUY2_H7o/view?usp=drive_link). [Grabación]().<br>
    C1. Introducción y motivaciones I. [Material](https://drive.google.com/file/d/1E94-ftrWjHKHCWnTnkkUM24Ck50-S111/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1uLosvHmo7unYaKjeHo1MurC8CLCf-NH0/view?usp=drive_link). [Grabación]().<br>
    C2. Introducción y motivaciones II. [Material](https://drive.google.com/file/d/1T67MzzIuBehqt_2gyOMcqzhyGhDFWOX1/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1S_wYp8Jxi1dYNZ2ZF5qZdswrzyu0u6at/view?usp=drive_link). [Grabación]().<br>
-   L0. Introducción a python para computación científica. [Material](). [Grabación]().<br>
-   L1. Simulación de cadenas de Markov. [Material](). [Grabación]().<br>
+   L0. Introducción a python para computación científica. [Material](https://drive.google.com/file/d/1HN3yn3Sc_ZMYBQLCE2708WPVG0nS1prm/view?usp=drive_link). [Grabación]().<br>
+   L1. Simulación de cadenas de Markov. [Material](https://drive.google.com/file/d/1fDIYc4UQO3z8ceqpMiFVExVfUbDl9RZx/view?usp=drive_link). [Grabación]().<br>
    C3. Espacio Canónico. [Material](https://drive.google.com/file/d/1qSmgLfvTlDNcJ45KrjIZLEjx3CMw7Aql/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1gK9Av_3sXzv_rOkph1Dti8Yqr2GQNETt/view?usp=drive_link). [Grabación]().<br>
    C4. Propiedad fuerte de Markov. [Material](https://drive.google.com/file/d/1zJlbZ4_LKCJ70yAXAUgdbHku23wzVeuu/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1u68RdJ1pocYW_Jz12f6KWn_y3F3_l32m/view?usp=drive_link). [Grabación]().<br>
    C5. Aplicaciones de la propiedad fuerte de Markov. [Material](https://drive.google.com/file/d/18Sn5BJmqcwKhoI6Ws5Qr27wP5bRhdzeg/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1L5nLhz8Q6PSFqbuvRE1GXyrBmc-F_uMw/view?usp=drive_link). [Grabación]().<br>
-   L2. Propiedades de cadenas de Markov. [Material](). [Grabación]().<br>
-   L3. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación]().<br>
+   L2. Propiedades de cadenas de Markov. [Material](https://drive.google.com/file/d/1UoFrzPSKj-N98Wbh9yJ7Ldmlf65F5X1A/view?usp=drive_link). [Grabación]().<br>
+   L3. Repaso de teoría y simulación de cadenas de Markov. [Material](https://drive.google.com/file/d/10qRE0QOt3Klql7_foM9_2d12elcWCrZ3/view?usp=drive_link).<br>
    C6. Clasificación de estados. [Material](https://drive.google.com/file/d/1983Fd1UqAF8bHhRj49-W8Ek7p5o0JkDJ/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1hMyus9UctWjyu7Vrc-uNmkUVEKs_cItL/view?usp=drive_link). [Grabación]().<br>
    C7. Medidas invariantes. [Material](https://drive.google.com/file/d/1Xoewx7ynAzZ8oImw5yXDCk4uPTyoop8g/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/191sp3zpSJLmvEbU2Vts4F251GMGvE7JG/view?usp=drive_link). [Grabación](). <br>
-   L4. Cadenas de Markov y Método de Monte Carlo. [Material](). [Grabación](). <br>
+   L4. Cadenas de Markov y Método de Monte Carlo. [Material](https://drive.google.com/file/d/1PIsMeRDSEVrlsdi-TH92M_tEe-TwbeB3/view?usp=drive_link). [Grabación](). <br>
    C8. Comportamiento asintótico. [Material](https://drive.google.com/file/d/1auEFUUa6xT9X0drXT8bLHfwxfVk3_MNg/view?usp=drive_link). [Anotaciones](https://drive.google.com/file/d/1haJuEh0tI5LBdrJtM378xK641y9nuoLo/view?usp=drive_link). [Grabación](). <br>
-   L5. Repaso de teoría y simulación de cadenas de Markov. [Material](). [Grabación](). <br>
+   L5. Repaso de teoría y simulación de cadenas de Markov. [Material](https://drive.google.com/file/d/1UCnxyfAy9Lyzz5VZ05Ww0Gnh4WUCaPBN/view?usp=drive_link).<br>
 
 - Descripción/Resumen: 
    
