@@ -53,6 +53,29 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
 
 
+## Series de Tiempo
+
+- Repositorio: [SeriesTemporales_GEM](SeriesTemporales_GEM/)
+
+- Descripción/Resumen: 
+   
+   [El presente taller propuesto persigue introducir a los participantes al mundo de los fundamentos de las análisis de series de tiempo como una continuación/bifurcación de la teoría de procesos estocásticos introducida con las cadenas de Markov. Se cubren los tópicos cruciales como el análisis en el dominio frecuencia y el problema de pronóstico en el tiempo. Se busca así a establecer una panorámica de los análisis de series de tiempo, involucrando las ténicas modernas inclusive. El enfoque a seguir será teórico-práctico con énfasis en la buena comprensión y aplicación de la teoría a problemas académicos y científicos.]()
+
+- Docentes: 
+
+   - [Daniel Camarena](https://github.com/DanielCamarena), [Francisco Herrera]()
+ 
+- Modalidad: Virtual
+
+   - Primera edición: 2024/01 - 2024/04, [temario]()
+   
+- Referencias
+   
+   T1. Durrett, Probability Theory, Springer <br>
+   T2. Hamilton, Time Series Analysis <br>
+   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
+
+
 ## Matemática Aplicada con R
 
 - Repositorio: [MateAplicadaR_CENTEC](MateAplicadaR_CENTEC/)
