@@ -23,9 +23,9 @@ Taller de nivel *avanzado* sobre la teoría de cadenas de Markov.
 
 - Clases:
    
-   C-1. Presentación del taller - Nociones básicas de probabilidad y medida. [Material](). [Grabación]().<br>
-   C0. Esperanza condicional. [Material](). [Grabación]().<br>
-   C1. Introducción y motivaciones I. [Material](). [Grabación]().<br>
+   C-1. Presentación del taller - Nociones básicas de probabilidad y medida. [Material](https://drive.google.com/file/d/1CepqtQdvbajY97mqW1LFBpUlFdyIIhVh/view?usp=drive_link). [Grabación]().<br>
+   C0. Esperanza condicional. [Material](https://drive.google.com/file/d/1mBELWlx_m4ajRfQfb6SCm2d6ytxAW6yC/view?usp=drive_link). [Grabación]().<br>
+   C1. Introducción y motivaciones I. [Material](https://drive.google.com/file/d/1E94-ftrWjHKHCWnTnkkUM24Ck50-S111/view?usp=drive_link). [Grabación]().<br>
    C2. Introducción y motivaciones II. [Material](). [Grabación]().<br>
    L0. Introducción a python para computación científica. [Material](). [Grabación]().<br>
    L1. Simulación de cadenas de Markov. [Material](). [Grabación]().<br>
