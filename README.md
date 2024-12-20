@@ -21,9 +21,9 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
    
 - Referencias
    
-   T1. Durrett, Probability Theory, Springer <br>
-   T2. Hamilton, Time Series Analysis <br>
-   L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
+   T1. Durrett, R. (2019). Probability: theory and examples (Vol. 49). Cambridge university press. <br>
+   T2. Hamilton, J. D. (2020). Time series analysis. Princeton university press. <br>
+   T3. Shumway, R. H., Stoffer, D. S., & Stoffer, D. S. (2017). Time series analysis and its applications. New York: springer. <br>
 
 ## Cadenas de Markov
 
