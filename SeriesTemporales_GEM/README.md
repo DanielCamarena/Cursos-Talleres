@@ -52,12 +52,16 @@ Taller de nivel *avanzado* sobre la teoría de series de tiempo.
    
 - Referencias
    
-   T1. Shao, J. (2008). Mathematical statistics. Springer Science & Business Media.
+   T1. Shao, J. (2008). Mathematical statistics. Springer Science & Business Media. <br>
    T2. Durrett, R. (2019). Probability: theory and examples (Vol. 49). Cambridge university press. <br>
    T3. Hamilton, J. D. (2020). Time series analysis. Princeton university press. <br>
    T4. Shumway, R. H., Stoffer, D. S., & Stoffer, D. S. (2017). Time series analysis and its applications. New York: springer. <br>
+   T5.  <br>
    L1. [Sargent. Python Programming for Economics and Finance.](https://python-programming.quantecon.org/intro.html) <br>
    L2. [Sargent, T., Stachurski, J. Continuous Time Markov Chains.](https://continuous-time-mcs.quantecon.org/intro.html) <br>
+   L3.  <br>
+   L4.  <br>
+   L5.  <br>
 
 
 ## Contacto
