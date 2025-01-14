@@ -17,13 +17,12 @@ Cursos, talleres y seminarios de corta a mediana duración sobre matemática, co
  
 - Modalidad: Virtual
 
-   - Primera edición: 2024/01 - 2024/04, [temario]()
+   - Primera edición: 2024/01 - 2024/06, [temario](SeriesTemporales_GEM/)
    
 - Referencias
    
-   T1. Durrett, R. (2019). Probability: theory and examples (Vol. 49). Cambridge university press. <br>
-   T2. Hamilton, J. D. (2020). Time series analysis. Princeton university press. <br>
-   T3. Shumway, R. H., Stoffer, D. S., & Stoffer, D. S. (2017). Time series analysis and its applications. New York: springer. <br>
+   T1. Hamilton, J. D. (2020). Time series analysis. Princeton university press. <br>
+   T2. Shumway, R. H., Stoffer, D. S., & Stoffer, D. S. (2017). Time series analysis and its applications. New York: springer. <br>
 
 ## Cadenas de Markov
 
