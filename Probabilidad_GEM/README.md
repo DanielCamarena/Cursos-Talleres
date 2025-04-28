@@ -85,11 +85,11 @@ III. Clases
    18. Las leyes de los grandes Números, la Ley Débil. [Material](https://drive.google.com/file/d/1cKSpdmydn48Us5y41t4UNg1bnpWjQR7T/view?usp=sharing). [Grabación](https://youtu.be/W-IbfWVUyC4). <br>
    19. La Ley Fuerte y Lema de Borel-Cantelli. [Material](https://drive.google.com/file/d/1bncAdnzFs0EsFc8s0qB3W6Fh4xgrsPb_/view?usp=sharing). [Grabación](https://youtu.be/OibyFFAoOFI). <br>
    P10. Clase práctica 10: Convergencia y Leyes de Grandes Números (Python). [Teoría](https://drive.google.com/file/d/1dskobqjglYuL4siVkC17zCRglozXPE3t/view?usp=drive_link). [Grabación](https://youtu.be/XMkh4Trb8XU). [Cuaderno jupyter](https://colab.research.google.com/drive/19wyKEXlw0UjV4UF6vdBDkQWLqGBeHyIJ?usp=drive_link). <br>
-   20. Funciones Características. [Material](https://drive.google.com/file/d/1d2nGrSQKGy50NA-q2dSIwZdUltc7BK27/view?usp=share_link). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
-   21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/1QhFcCRyJo5xJG6-bUFqXPgct1Oo60S3I/view?usp=share_link). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
-   22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1KtbbT69zEiXUu1oiWGjvV7tsId0jUEZc/view?usp=share_link). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
+   20. Funciones Características. [Material](https://drive.google.com/file/d/1wlcabYqQVu4RiSKjkp5e29kQGqp9ZFhf/view?usp=sharing). [Grabación](https://youtu.be/i3RV6-BRdjM). <br>
+   21. Convergencia en Distribución. [Material](https://drive.google.com/file/d/14l2n7bDDbJg94e4iFSTVW5m8UzIH-xpW/view?usp=sharing). [Grabación](https://youtu.be/LIS3MqI0ynU). <br>
+   22. El Teorema Central del Límite. [Material](https://drive.google.com/file/d/1V9A6aQrlzivvHs9KTNV92pKlKPL8mWKg/view?usp=sharing). [Grabación](https://youtu.be/jRUE-cYxvGw). <br>
    P11. Clase práctica 11: Teorema Central del Límite. [Lista de ejercicios](https://drive.google.com/file/d/1FZMz9a8SWLkiCOS7TZtMydq2iIJfyRXP/view?usp=drive_link). [Grabación](https://youtu.be/CIfjw8J1w6Q). [Cuaderno jupyter](https://colab.research.google.com/drive/1OQ1u0sc3Nd_64xNVqbmb6SQyCu6uEpYq?usp=drive_link). <br>
-   23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1yeULQz5lL76EH-ROAdTE27970NP1PnaV/view?usp=share_link). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
+   23. El Teorema Central del Límite, extensiones. [Material](https://drive.google.com/file/d/1jLcikwaLC4hvHLJ2LK22DXOjX9u7UuJG/view?usp=sharing). [Grabación](https://youtu.be/zwBAw0Xca3k). <br>
    P12a. Introducción a los procesos estocásticos I. [Teoría](https://drive.google.com/file/d/1XGhI9gA4O2hdBwL5btGe0uQA7m1bmOHn/view?usp=drive_link). [Grabación](https://youtu.be/Eg-bdPrzxvs). [Cuaderno jupyter](https://colab.research.google.com/drive/16RROEk0-8Wpipx1aINbu0Mj3r67SYlS-?usp=drive_link). <br>
    P12b. Introducción a los procesos estocásticos II. [Cuaderno jupyter](https://colab.research.google.com/drive/1mN_bGmsl8yJTkmYEVkJlG2seJw2bs94j?usp=drive_link). [Grabación](https://youtu.be/g9b7Txok1Tc). <br>
    
