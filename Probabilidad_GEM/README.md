@@ -45,7 +45,7 @@ Curso de Probabilidad de nivel *intermedio* dirigido a alumnos de pregrado, posg
 
 I. Temarios
    
-   - [Temario de lanzamiento (2021).](https://drive.google.com/file/d/17OO3J11IpbBZYR6gERC-9_4Fh7VSzvHp/view?usp=share_link)
+   - [Temario de lanzamiento (2021).](https://drive.google.com/file/d/1yv5srmLgBhvbL7rTOlF-ZEHI5OF0ahSk/view?usp=sharing)
    - Temario de relanzamiento (2023): Adiciona clases de resolución de ejercicios al temario previo.
 
 II. Repositorios:
@@ -55,30 +55,30 @@ II. Repositorios:
 
 III. Clases
 
-   1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/1OKCu-ILEGoG_iw693BtbzvaQlsTu7Q9U/view?usp=share_link). [Grabación](https://youtu.be/S3exXxAityg). <br>
-   P1. Clase práctica 1: Introducción al curso. [Material](https://drive.google.com/file/d/1_SMegv2qD7sLHVUjKTA91anonvRGibVz/view?usp=share_link). [Grabación](https://youtu.be/ale_CkatOuY). [Cuestionario de entrada](https://forms.gle/WhVSdfikzS4N8yEXA). <br>
-   2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/10DPacAFxwR3ECfHxLW7UBsBZvSyL5R54/view?usp=share_link). [Grabación](https://youtu.be/F7QLhQ2Rs9U). <br>
-   3. Independencia. [Material](https://drive.google.com/file/d/12AWRgalmjVyVM7EC-wdH9AmdzrxQA-e3/view?usp=share_link). [Grabación](https://youtu.be/Gq82OKxrlUg). <br>
-   P2. Clase práctica 2: Espacios de probabilidad. [Lista de ejercicios](https://drive.google.com/file/d/1J5JyTnD5Ff_eiDbrw4lUxGqzgBnbVFdl/view?usp=share_link). [Grabación](https://youtu.be/3wnu6eKbPLw). [Solucionario](https://drive.google.com/file/d/1xzItB7sFVz-nwVrUaszbTp-n1HuvoDRs/view?usp=share_link). <br>
-   4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1nzaW3GMgz8sx6MfMbSNLAPAcTpWm1Aja/view?usp=share_link). [Grabación](https://youtu.be/CxMyLMm4Pf4). <br>
-   5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1nxy7fR-BNqMbVQRP4X0dKGqrWw5G74kC/view?usp=share_link). [Grabación](https://youtu.be/JXgDHkz5S-8). <br>
-   P3. Clase práctica 3: Independencia. [Lista de ejercicios](https://drive.google.com/file/d/15Nlo0o-dzFROBqw2okstQcI4O5-8wrZi/view?usp=share_link). [Grabación](https://youtu.be/6tEBNiKSYc0). [Solucionario](https://drive.google.com/file/d/11iYAgzJ5awSE77_-19Gx6c2iRnKGE4nl/view?usp=share_link). <br>
-   6. Función de Distribución. [Material](https://drive.google.com/file/d/19B64X3NddcwbAmuU598Djx7v5CluDCS0/view?usp=share_link). [Grabación](https://youtu.be/dkTglvD0ToU). <br>
-   7. Tipos de variables aleatorias. [Material](https://drive.google.com/file/d/1xF0XOardCUvfbfC_bLCf8T7tCFnX3inB/view?usp=share_link). [Grabación](https://youtu.be/f-LM-_RZ9yc). <br>
-   P4. Clase práctica 4: Espacios de probabilidad e Independencia. [Lista de ejercicios](https://drive.google.com/file/d/1rDgeg7kaZ1IHr2u0D6mUWCWQIx9VCfYr/view?usp=share_link). [Grabación](https://youtu.be/vmInSkDowdU). [Cuaderno jupyter (Python)](https://colab.research.google.com/drive/1rui-Z1tCZ6z3efnelYtmzvUdq-VA7N2S?usp=share_link). <br>
+   1. Espacio de Probabilidad. [Material](https://drive.google.com/file/d/10SygovtDzL5476s671K6U0oHxSinoMdG/view?usp=sharing). [Grabación](https://youtu.be/S3exXxAityg). <br>
+   P1. Clase práctica 1: Introducción al curso. [Material](https://drive.google.com/file/d/17Af23kMuxhGyrb1ASs9ko7xuVxxdUKpy/view?usp=sharing). [Grabación](https://youtu.be/ale_CkatOuY). [Cuestionario de entrada](https://forms.gle/WhVSdfikzS4N8yEXA). <br>
+   2. Probabilidad Condicional. [Material](https://drive.google.com/file/d/1UVy0AWZeCoFjkR1L8692KhMOdKDXwS-p/view?usp=sharing). [Grabación](https://youtu.be/F7QLhQ2Rs9U). <br>
+   3. Independencia. [Material](https://drive.google.com/file/d/1tlIMKfwe_vdv6v-LKQTBQXwf8nIaXkVI/view?usp=sharing). [Grabación](https://youtu.be/Gq82OKxrlUg). <br>
+   P2. Clase práctica 2: Espacios de probabilidad. [Lista de ejercicios](https://drive.google.com/file/d/1cEsZHF72yIJIMOcRQ04n3SbUSTurX-dC/view?usp=sharing). [Grabación](https://youtu.be/3wnu6eKbPLw). [Solucionario](https://drive.google.com/file/d/1vf5dIHMNicmAE8tupl98Y8uYiJAikf8a/view?usp=sharing). <br>
+   4. Sigma-álgebras y medidas. [Material](https://drive.google.com/file/d/1KvP78bBTgdmm-DVKvKWnOdb8DSKhaiV4/view?usp=sharing). [Grabación](https://youtu.be/CxMyLMm4Pf4). <br>
+   5. Variables Aleatorias. [Material](https://drive.google.com/file/d/1zjIba5UiUF_B5I8qjprhmHGBbX00cVGc/view?usp=sharing). [Grabación](https://youtu.be/JXgDHkz5S-8). <br>
+   P3. Clase práctica 3: Independencia. [Lista de ejercicios](https://drive.google.com/file/d/1Q3Bz2GiZOX7fCZorwSr_5B7JAMX7dQRT/view?usp=sharing). [Grabación](https://youtu.be/6tEBNiKSYc0). [Solucionario](https://drive.google.com/file/d/1ZCGkrkn-0S9Fq8W_jhZtJLId-PnAtLNd/view?usp=sharing). <br>
+   6. Función de Distribución. [Material](https://drive.google.com/file/d/1R2VrxmAFimyz4yDwSa6z1uVflMlpNMwu/view?usp=sharing). [Grabación](https://youtu.be/dkTglvD0ToU). <br>
+   7. Tipos de variables aleatorias. [Material](https://drive.google.com/file/d/1aI4AzthjAV4cZEC5ers56rgFteWvBpnO/view?usp=sharing). [Grabación](https://youtu.be/f-LM-_RZ9yc). <br>
+   P4. Clase práctica 4: Espacios de probabilidad e Independencia. [Lista de ejercicios](https://drive.google.com/file/d/1tRSP0uQehQNlKJKwk3mmTVhf3Zko88xP/view?usp=sharing). [Grabación](https://youtu.be/vmInSkDowdU). [Cuaderno jupyter (Python)](https://drive.google.com/file/d/1_tjNrs9WFOhhFgSC-I0chQwF72Wpf6rT/view?usp=sharing). <br>
    8. Distribuciones de Variables Aleatorias. [Material](https://drive.google.com/file/d/1cO6gk9DWHcc35Eibj1jMSPjp3JnX8EOJ/view?usp=share_link). [Grabación](https://youtu.be/EkzT4guT8og). <br>
    9. Vectores Aleatorios. [Material](https://drive.google.com/file/d/1bkNDB3YAZXLCeagLTJMspl5ncFp4Q6pI/view?usp=share_link). [Grabación](https://youtu.be/yGhmEPOqdwE). <br>
-   P5.  Clase práctica 5: Variables Aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1VQ0H3VOupwcVM5mfWy2RViAn-5H5pw-g/view?usp=share_link). [Grabación](https://youtu.be/0x0b240NLU4). [Solucionario](https://drive.google.com/file/d/1ZDDknXQTg_CxbPwV_zmGMk51JTn_xOXF/view?usp=share_link). <br>
+   P5.  Clase práctica 5: Variables Aleatorias. [Lista de ejercicios](https://drive.google.com/file/d/1wOFraEV5UHaBZmhi6l5nM4fZQRmxIbIi/view?usp=sharing). [Grabación](https://youtu.be/0x0b240NLU4). [Solucionario](https://drive.google.com/file/d/1uESDORVOUCVW1XAJBuu1hA9jgFbOFZ_w/view?usp=sharing). <br>
    10. Distribución Uniforme y Convolución. [Material](https://drive.google.com/file/d/1Lg-xPiBnm5cPsT-rJnVxVkVcFSWMEC9m/view?usp=share_link). [Grabación](https://youtu.be/IwfjTGQGyR4). <br>
    11. Esperanza Matemática e Integración. [Material](https://drive.google.com/file/d/1rscVtTKJa_LJN5mIfEgaPRuce8JSm76_/view?usp=share_link). [Grabación](https://youtu.be/odHH5R9QubQ). <br>
-   P6. Clase práctica 6: Distribuciones de Probabilidad. [Cuaderno jupyter (R)](https://colab.research.google.com/drive/1Gz5pBRG3twu94XY2yC_HG6ewNipP0HFz?usp=share_link). [Grabación](https://youtu.be/LeVpiefqALw). [Cuaderno jupyter adicional (Python)](https://colab.research.google.com/drive/1vK6aHjPGRyQ0xj4CwHmep_o4sVPqkbd1?usp=share_link) <br>
+   P6. Clase práctica 6: Distribuciones de Probabilidad. [Cuaderno jupyter (R)](https://drive.google.com/file/d/1M9lVmwnoQYybuwkNsDMy3x0t7pYmnoB1/view?usp=sharing). [Grabación](https://youtu.be/LeVpiefqALw). [Cuaderno jupyter adicional (Python)](https://drive.google.com/file/d/1SLNV1TcVxnKTv8kaC2C9-aIWtTeigYQ1/view?usp=sharing) <br>
    12. Propiedades de la Esperanza. [Material](https://drive.google.com/file/d/11_jEqmOxNgKlGvlUby4HM8XEoXNIJV7F/view?usp=share_link). [Grabación](https://youtu.be/PIuKaasb98E). <br>
    13. Momentos y funciones de vectores aleatorios. [Material](https://drive.google.com/file/d/1FUQeFBUiMac2oNQ8TdJ6U2-zx86Lt9Tx/view?usp=share_link). [Grabación](https://youtu.be/aVbyDB7Mj1Q). <br>
-   P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/1ek06SajnzPU2QnI6OdRrFQugNic5mKHJ?usp=share_link). [Grabación](https://youtu.be/yBPJhHMFW5k). <br>   
+   P7. Clase práctica 7: Vectores Aleatorios (Python). [Cuaderno jupyter](https://drive.google.com/file/d/1uo9e91IOloRSLXhWghXd6qMLZtLds0jz/view?usp=sharing). [Grabación](https://youtu.be/yBPJhHMFW5k). <br>   
    14. Teoremas de Convergencia. [Material](https://drive.google.com/file/d/1gWNqH4VkoltW7pR3HgxrSwwlP6MkKWDF/view?usp=share_link). [Grabación](https://youtu.be/SO5H9EO54ig). <br>
    15. Condicionamiento: caso discreto y continuo. [Material](https://drive.google.com/file/d/1PraDlldsI8i4Vaxnjz_LacUZ9VVpW5kj/view?usp=share_link). [Grabación](https://youtu.be/zXJPTCY_KYI). <br>
-   P8. Clase práctica 8a: Condicionamiento y Esperanza Condicional. [Lista de ejercicios](https://drive.google.com/file/d/1O3ovJihIquwGI5NpLMg73eIwKH-gMPfL/view?usp=share_link). [Solucionario de la lista](https://drive.google.com/file/d/1Pw8at3BihgbvMtfIkYUMYhzEiD9TDCB9/view?usp=share_link). [Grabación](https://youtu.be/LI6kPmyOZis). <br>
-   P8. Clase práctica 8b: Condicionamiento y Esperanza Condicional (Python). [Cuaderno jupyter](https://colab.research.google.com/drive/16jPN6dGwapab5qVYMQj9OPCOdnEs2gvj?usp=sharing). [student-por.csv](https://drive.google.com/file/d/13CYyil3_edSwBeSW7fKPORAfbR22mtN3/view?usp=drive_link). [Grabación](https://youtu.be/IpGlnyIJoHM). <br>
+   P8. Clase práctica 8a: Condicionamiento y Esperanza Condicional. [Lista de ejercicios](https://drive.google.com/file/d/1hTNBirmXxtJu2SgXLnVqAXvKpJGwYRMs/view?usp=sharing). [Solucionario de la lista](https://drive.google.com/file/d/1Nwj66bow3PzU32TdcZ2m6_witnQZrgBC/view?usp=sharing). [Grabación](https://youtu.be/LI6kPmyOZis). <br>
+   P8. Clase práctica 8b: Condicionamiento y Esperanza Condicional (Python). [Cuaderno jupyter](https://drive.google.com/file/d/1-YzPs8WTPfk65e0sMzqSJHMY4-nA3b_b/view?usp=sharing). [student-mat.csv](https://drive.google.com/file/d/1v-_g3iCPtcgCKukI1Yuf7nO71f4Tb1H_/view?usp=sharing). [Grabación](https://youtu.be/IpGlnyIJoHM). <br>
    16. Distribución Condicional: caso general. [Material](https://drive.google.com/file/d/1zngssBMKjpd3uQdCXvkFg2spFuqQ8HGC/view?usp=share_link). [Grabación](https://youtu.be/ZfpN9hUtbRg). <br>
    17. Esperanza Condicional. [Material](https://drive.google.com/file/d/1kOMiyrTI-6PZAOiHJr2bvDxSGl2Nb-jU/view?usp=share_link). [Grabación](https://youtu.be/wxSyRbj2-U4). <br>
    P9. Clase práctica 9: Convergencia y Leyes de Grandes Números. [Lista de ejercicios](https://drive.google.com/file/d/10L8ilNUD2MZQMdLu3EXh6ZPaSYXFtb3D/view?usp=drive_link). [Grabación](https://youtu.be/RLTROtlqYqU). [Solucionario](https://drive.google.com/file/d/1eLglEypqL12JMbs2SrUxgTPmrNU9MuoT/view?usp=drive_link). <br>
